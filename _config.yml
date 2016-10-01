@@ -1,0 +1,15 @@
+# Site settings
+email: ktagilbert@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+site_title: Katalog
+url: "http://katalog.com/" # the base hostname & protocol for your site
+twitter_username: Kt_a_Gilbert
+github_username:  ktagilbert
+# time: "2015-07-15 19:50:33 -0700"
+comments: true
+markdown: kramdown
+
+# Heroku Config
+gems: ['kramdown', 'jekyll-assets']
+
+exclude: ['vendor', 'Procfile', 'Rakefile', 'Gemfile']

@@ -1,0 +1,42 @@
+h1, h2, h3, h4, h5, h5, h6 {
+  font-family: 'Open Sans Condensed';
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.underline {
+  padding-bottom: 5px;
+  border-bottom: 1px solid $mint;
+  width: 80%;
+}
+
+.page-heading {
+  font-family: 'Sacramento', cursive;
+  font-size: 2em;
+  padding: 5% 0 2% 0;
+}
+
+.post-title {
+  font-family: "Sacramento", cursive;
+  font-size: 60px;
+  padding: 0 0 5% 0;
+}
+
+.sacramento {
+  font-family: "Sacramento", cursive;
+}
+
+.sidebar-item {
+  font-size: 0.8em;
+  border-left: 1px;
+}
+
+.home-sidebar {
+  padding: 2%;
+
+  i:hover {
+    font-size: 1.1em;
+  }
+}

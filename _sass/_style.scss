@@ -1,0 +1,41 @@
+.post-list-img {
+    padding: 0 0 20px 0;
+}
+.post-list {
+  list-style: none;
+
+  img {
+    max-width: 500px;
+  }
+}
+
+.home-sidebar {
+  width: 30%;
+  float: right;
+
+  img {
+    padding: 10px 0 20px 0;
+  }
+}
+
+.posts {
+  width: 65%;
+  float: left;
+}
+
+@media(max-width: 1100px) {
+  .home-sidebar {
+    width: 100%;
+
+    #main-social-icons {
+      display: none;
+    }
+
+    img {
+      display: none;
+    }
+  }
+  .posts {
+    width: 100%;
+  }
+}
