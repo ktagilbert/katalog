@@ -3,7 +3,6 @@ layout: post
 title:  "Project: Year of Knitting"
 date: 2016-08-28 10:46:36 -0700
 image: knitting-inspiration.jpg
-category: knitting
 comments: true
 excerpt:
  "Do you have a latent hobby? That something you love to do but just don't get around to often? Yeah, I think we all do. It could be sewing, DIYing, painting, or even reading. My latent hobby happens to be knitting."
@@ -75,3 +74,5 @@ Here are some of the projects I'm excited to try out.
 - I'll need to learn how to do trinity or blackberry stitch
 - Needles: US 9 - 5.5 mm circular needles (73.5 cm long)
 - [This pattern from ravelry](http://www.ravelry.com/patterns/library/speckled-shrug)
+
+My first step is to finish my headband this weekend (stay tuned for pictures!) and then I'm going to tackle that Jasmine Scarf. I'm excited to get started!
