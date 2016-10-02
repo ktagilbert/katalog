@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Project: Year of Knitting"
-date: 2016-08-28 10:46:36 -0700
+date: 2016-10-01 10:46:36 -0700
 image: knitting-inspiration.jpg
 comments: true
 excerpt:
  "Do you have a latent hobby? That something you love to do but just don't get around to often? Yeah, I think we all do. It could be sewing, DIYing, painting, or even reading. My latent hobby happens to be knitting."
 ---
+
+![gaining knitting inspiration]({{ site.github. url }}/assets/knitting-inspiration.jpg)
 
 Do you have a latent hobby? That something you ***love*** to do but just don't get around to often? Yeah, I think we all do. It could be sewing, DIYing, painting, or even reading. My latent hobby happens to be knitting.
 
