@@ -29,7 +29,7 @@ layout: default
     {% for post in site.posts %}
       <li>
         <h2><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></h2>
-        <a href="{{ post.url }}">
+        <a href="{{ site.github.url }}/{{ post.url }}">
           <img class="post-list-img" src="{{ site.github.url }}/assets/{{ post.image }}">
         </a></br>
         {{ post.excerpt }}
