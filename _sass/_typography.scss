@@ -29,7 +29,6 @@ h1 {
 }
 
 .sidebar-item {
-  font-size: 0.8em;
   border-left: 1px;
 }
 
@@ -39,4 +38,8 @@ h1 {
   i:hover {
     font-size: 1.1em;
   }
+}
+
+.small-text {
+  font-size: 0.8em;
 }
