@@ -5,12 +5,12 @@ date: 2016-10-02 10:46:36 -0700
 image: Woodland-Dreams-Headband.jpg
 comments: true
 excerpt:
- "Do"
+ "I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project. I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make."
 ---
 
 ![knitted woodland dreams headband]({{ site.github.url }}/assets/Woodland-Dreams-Headband.jpg)
 
-I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project.  I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make.
+I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project. I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make.
 
 I just wanted something that I would for sure wear. That meant no fancy twists, cables that would make my head looker bigger, etc. So in the end I skipped using a pattern. Instead, I went into the bin of yarn and needles that I keep in the laundry room and found some soft, pink merino wool and some thin bamboo needles (sorry I forgot the size already!). I also found some wooden button I had ordered back in January so I decided I wanted to use these too.
 
