@@ -1,1 +1,1 @@
-#katalog
+#katalog - a blog
