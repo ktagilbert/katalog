@@ -8,7 +8,7 @@ excerpt:
  "Do"
 ---
 
-![knitted woodland dreams headband]({{ site.github.url }}/assest/Woodland-Dreams-Headband.jpg)
+![knitted woodland dreams headband]({{ site.github.url }}/assets/Woodland-Dreams-Headband.jpg)
 
 I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project.  I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make.
 
@@ -28,7 +28,7 @@ I'm definitely excited that this project is complete because it really is one of
 
 ## How to Make the Headband
 
-![Amazing Knitting Kit]({{ site.github.url}}/assets/knitting-ttols.jpg)
+![Amazing Knitting Kit]({{ site.github.url}}/assets/knitting-tools.jpg)
 
 I'm going to call this one the Woodland Dreams Headband because the wood buttons and deep pink color make it look like something I would dream of wearing while out camping in the woods. So, without further ado, this how you can make your own Woodland Dreams Headband.
 
