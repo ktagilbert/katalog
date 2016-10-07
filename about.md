@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Katie | Katalog | Lifestyle Blog & Portfolio
+title: About
 permalink: /about/
 excerpt: Hi, my name is Katie. I spend my days at work managing client accounts and editorial calendars & then come home to my to write, read, knit & plan out outdoor activities to do on the weekends.
 ---
