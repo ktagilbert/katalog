@@ -44,11 +44,6 @@
   float: left;
 }
 
-article {
-  post-content {
-    img {
-      margin: 0 10%;
-      display: table-cell;
-    }
-  }
+body > div > div > article > div > p:nth-child(1) > img {
+  display: table-cell;
 }
