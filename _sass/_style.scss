@@ -43,3 +43,13 @@
 .float-left {
   float: left;
 }
+
+article {
+  post-content {
+    img {
+      margin: 0 10%;
+      display: table-cell;
+      position: relative;
+    }
+  }
+}
