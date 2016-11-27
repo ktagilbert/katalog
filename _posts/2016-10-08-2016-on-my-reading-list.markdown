@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finding Time to be Creative"
-date: 2016-10-08 10:46:36 -0700
+date: 2016-10-16 10:46:36 -0700
 image: creative-quote.jpg
 comments: true
 excerpt:
