@@ -49,6 +49,8 @@ body > div > div > article > div > p:nth-child(1) > img {
   padding: 3% 0;
 }
 
-body > div > div > article > img
-  display: table-cell;
+.post {
+  img {
+    display: table-cell;
+  }
 }
