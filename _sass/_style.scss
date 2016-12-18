@@ -50,7 +50,9 @@ body > div > div > article > div > p:nth-child(1) > img {
 }
 
 .post {
-  img {
-    display: table-cell;
+  .post-content {
+    img {
+      display: table-cell;
+    }
   }
 }
