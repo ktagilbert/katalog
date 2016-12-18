@@ -5,8 +5,7 @@ date: 2016-11-24 10:46:36 -0700
 image: A-Classic-Project.jpg
 comments: true
 excerpt:
- "what are your Thanksgiving traditions? I didn't grow up with any one tradition. Every thanksgiving was different for my family and every Thanksgiving continues to be different when I spend it with them.
-"
+ "I've been picturing Molly Weasley's knit sweaters all month long. Probably because a co-worker just asked me to knit his fiance a Gryffindor themed scarf and hat."
 ---
 ![Gryffindor Hat Pattern]({{ site.github. url }}/assets/A-Classic-Project.jpg)
 I've been picturing Molly Weasley's knit sweaters all month long. Probably because a co-worker just asked me to knit his fiance a Gryffindor themed scarf and hat. Now if you know me, you know I'm a sucker for romance. So, I was more than happy to help him surprise his girl with something she wouldn't be able to find anywhere else (I say so humbly!)

@@ -5,8 +5,7 @@ date: 2016-11-24 10:46:36 -0700
 image: happy-thanksgiving.jpg
 comments: true
 excerpt:
- "What are your Thanksgiving traditions? I didn't grow up with any one tradition. Every thanksgiving was different for my family and every Thanksgiving continues to be different when I spend it with them.
-"
+ "What are your Thanksgiving traditions? I didn't grow up with any one tradition. Every thanksgiving was different for my family and every Thanksgiving continues to be different when I spend it with them."
 ---
 
 ![Thanksgiving traditions]({{ site.github. url }}/assets/happy-thanksgiving.jpg)
