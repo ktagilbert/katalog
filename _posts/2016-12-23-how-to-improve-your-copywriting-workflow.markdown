@@ -11,17 +11,20 @@ excerpt: >
 
 ---
 
+*I'll be including a few professional development articles here periodically along with the regularly scheduled program.**
+
+In the world of digital marketing, we're all trying to accommodate Google, right? So we abide by these rules and end-up forcing our copywriters to write the same article over and again. In most cases the process works fine. *But is it really working well enough for you?* Let's think about where the process is potentially breaking down.
+
 If you are a marketing manager, or working at a marketing agency, chances are that you have a ton of clients who all have the same deal going on. You'll need to write some landing page copy for the sale for them. The good news is that you have freelance copy writers on hand to help you do it! Problem solved, right? Well, not exactly.
 
 The problem with many agencies is that they only have 5-10 freelancers on hand at any time. Meaning, each writer is pumping out around 10 or more versions of the same article for each sale or event that comes up.
 
 The traditional formula is to have that freelancer re-write an intro and conclusion for each version and update any location details. Don't forget, they also have to look up each location, find landmarks to mention, get all the info correct, and copy-edit their article around three times once it is finished before turning back in a final product for you to review. Then, you'll have someone on your staff edit it again. Once that is all done, you will finally publish it to the client's site. Wow, just typing that was exhausting!
 
-We're all trying to accommodate Google, right? So we abide by these rules and end-up forcing our copywriters to write the same article over and again. In most cases the process works fine. *But is it really working well enough for you?* Let's think about where the process is potentially breaking down.
 
 
 # The three things that may be breaking your copywriting workflow
-![Improve Your Copywriting Workflow](/assets/copywriter.jpg)
+![Improve Your Copywriting Workflow]({{ site.github. url }}/assets/copywriter.jpg)
 
 1) Your writers are getting bored and burnt out by writing the same thing over and again. Meaning, they are becoming apathetic. Why? It's not because they are lazy. **It's because they are being forced to do a monotonous task, which is naturally leading them toward disinterest.** The task is no longer creative but instead formulaic. More than that, once a writer has to do more than 5 of these at a time, they begin to skim rather than give your assignment the attention it deserves.
 
@@ -72,7 +75,7 @@ To fix the process, let's remember that content is king right now! Meaning, you 
 
 ## What's the solution?
 
-The best solution I can offer you is to simply try hiring more writers. Get more team members in your department or find more qualified freelancers to contribute to copy-editing. Then, get multiple people to help copy edit. You can even delegate the task to your interns as well to help. **But it really is important that you spread out assignments between more writers to avoid being handed mediocre copy.  Afterall, this copy is important to you and your client so why would you trust it to someone who is going to become a zombie after a certain word count or hour of work?**
+The best solution I can offer you is to simply try hiring more writers. Get more team members in your department or find more qualified freelancers to contribute to copy-editing. Then, get multiple people to help copy edit. You can even delegate the task to your interns as well to help. **But it really is important that you spread out assignments between more writers to avoid being handed mediocre copy. After all, this copy is important to you and your client so why would you trust it to someone who is going to become a zombie after a certain word count or hour of work?**
 
 Another solution is to assign each a writer just one-three clients rather than 10-30 articles for one sale. That way, they will AT LEAST have different topics to write about and that will help fuel their interest and motivation.
 
