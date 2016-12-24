@@ -11,7 +11,7 @@ excerpt: >
 
 ---
 
-*I'll be including a few professional development articles here periodically along with the regularly scheduled program.**
+*I'll be including a few professional development articles here periodically along with the regularly scheduled program.*
 
 In the world of digital marketing, we're all trying to accommodate Google, right? So we abide by these rules and end-up forcing our copywriters to write the same article over and again. In most cases the process works fine. *But is it really working well enough for you?* Let's think about where the process is potentially breaking down.
 
