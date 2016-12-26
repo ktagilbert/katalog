@@ -23,7 +23,7 @@ layout: page
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">
+    <p class="post-meta" style="text-align: left">
       Posted by
       {% if post.author %}
         {{ post.author }}
@@ -33,5 +33,7 @@ layout: page
       on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 </div>
+</br>
 <hr>
+</br>
 {% endfor %}
