@@ -5,14 +5,22 @@ excerpt: Katalog is a lifestyle blog about knitting, reading, and writing. Read 
 
 <div class="home">
   <div class="home-sidebar">
+  <!--About Info-->
     <h1>Welcome to Katalog!</h2>
     <div class="sidebar-item">
-      <img src="{{ site.github.url }}/assets/katie.jpg">
+      <img src="/assets/katie.jpg">
       <p class="small-text">My name is Katie. I spend my days at work managing client accounts and editorial calendars
          and then come home to my boyfriend and Border Collie where I write, read, and plan outdoor
          activities to do on the weekend. You can <a href="{{ site.github.url }}/about/">read more about me here</a>
       </p>
     </div>
+    <!--post category listing-->
+    <h3>Categories</h3>
+      {% for category in site.categories %}
+        <a href="/category/{{ category[0] }}/" style="text-decoration: none;">{% if category[0] == 'knitting' %}{{ category[0] | upcase }}{% else %}{{ category[0] | capitalize }}{% endif %}</a><br />
+      {% endfor %}
+      <p/>
+    <!--Social Media Icons-->
     <span id="main-social-icons">
       <h2 class="underline">You can Find Me Here:</h2>
       <ul id=sidebar-social-icons>
@@ -22,16 +30,16 @@ excerpt: Katalog is a lifestyle blog about knitting, reading, and writing. Read 
       </ul>
     </span>
   </div>
-
+<!--post list-->
   <div class="posts">
     <h1 class="page-heading">Posts</h1>
 
     <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h2><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></h2>
-        <a href="{{ site.github.url }}/{{ post.url }}">
-          <img class="post-list-img" src="{{ site.github.url }}/assets/{{ post.image }}">
+        <h2><a href="/{{ post.url }}">{{ post.title }}</a></h2>
+        <a href="/{{ post.url }}">
+          <img class="post-list-img" src="/assets/{{ post.image }}">
         </a></br>
         {{ post.excerpt }}
       </li>

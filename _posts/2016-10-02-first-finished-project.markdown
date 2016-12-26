@@ -4,6 +4,7 @@ title:  "First Finished Knitting Project"
 date: 2016-10-02 10:46:36 -0700
 image: Woodland-Dreams-Headband.jpg
 comments: true
+category: Knitting
 excerpt:
  "I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project. I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make."
 ---
