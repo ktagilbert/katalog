@@ -22,7 +22,9 @@ excerpt: Katalog is a lifestyle blog about knitting, reading, and writing. Read 
     </div>
     <!--post category listing-->
     <h3>Categories</h3>
-      {% include category.html %}
+    <h1 class="archive-title">
+      {% for post in site.categories[page.category] %}{{ page.category }}</p>{% endfor %}
+    </h1>
     <!--Social Media Icons-->
     <span id="main-social-icons">
       <h2 class="underline">You can Find Me Here:</h2>
