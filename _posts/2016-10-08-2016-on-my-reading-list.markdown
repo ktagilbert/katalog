@@ -4,7 +4,7 @@ title:  "Finding Time to be Creative"
 date: 2016-10-16 10:46:36 -0700
 image: creative-quote.jpg
 comments: true
-category: personal-development
+category: personal development
 excerpt:
  "Question. Where do you guys draw the line between laziness v. working. I find that I'm either working or doing chores and if I'm not doing that, I'm sitting on my butt watching T.V. or browsing through Instagram."
 ---
