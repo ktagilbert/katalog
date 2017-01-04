@@ -7,7 +7,7 @@ comments: true
 excerpt:
  "I've been picturing Molly Weasley's knit sweaters all month long. Probably because a co-worker just asked me to knit his fiance a Gryffindor themed scarf and hat."
 ---
-![Gryffindor Hat Pattern]({{ site.github. url }}/katalog/assets/A-Classic-Project.jpg)
+![Gryffindor Hat Pattern]({{ site.github. url }}/assets/A-Classic-Project.jpg)
 I've been picturing Molly Weasley's knit sweaters all month long. Probably because a co-worker just asked me to knit his fiance a Gryffindor themed scarf and hat. Now if you know me, you know I'm a sucker for romance. So, I was more than happy to help him surprise his girl with something she wouldn't be able to find anywhere else (I say so humbly!)
 
 I started by picking out some medium weight Wool-Ease yarn from Lion Brand in gold and maroon. My goal was to pick two colors that weren't obnoxious on their own or together. Then, I began with the scarf.

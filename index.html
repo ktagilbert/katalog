@@ -8,7 +8,7 @@ excerpt: Katalog is a lifestyle blog about knitting, reading, and writing. Read 
   <!--About Info-->
     <h1>Welcome to Katalog!</h2>
     <div class="sidebar-item">
-      <img src="/katalog/assets/katie.jpg">
+      <img src="{{ site.github.url }}/assets/katie.jpg">
       <p class="small-text">My name is Katie. I love to share stories and help showcase what makes you stand out.
       I have experience working with small to medium sized businesses to capture their company voice and style. Here, you can find
       samples of my web content, blog articles, and press releases. You can <a href="{{ site.github.url }}/about/">
@@ -37,9 +37,9 @@ excerpt: Katalog is a lifestyle blog about knitting, reading, and writing. Read 
     <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h2><a href="{{ site.github.url }}/katalog/{{ post.url }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></h2>
         <a href="/{{ post.url }}">
-        <img class="post-list-img"src="{{ site.github.url }}/katalog/assets/{{ post.image }}">
+        <img class="post-list-img"src="{{ site.github.url }}/assets/{{ post.image }}">
         </a></br>
         {{ post.excerpt }}
       </li>
