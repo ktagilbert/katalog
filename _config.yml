@@ -1,6 +1,6 @@
 # Site settings
 email: ktagilbert@gmail.com
-baseurl: /katalog # the subpath of your site, e.g. /blog/
+baseurl: ktagilbert.github.io/katalog/ # the subpath of your site, e.g. /blog/
 site_title: Katalog
 url: "https://ktagilbert.github.io/katalog/" # the base hostname & protocol for your site
 twitter_username: Kt_a_Gilbert
