@@ -8,7 +8,7 @@ excerpt:
  "What are your Thanksgiving traditions? I didn't grow up with any one tradition. Every thanksgiving was different for my family and every Thanksgiving continues to be different when I spend it with them."
 ---
 
-![Thanksgiving traditions]({{ site.github. url }}/assets/happy-thanksgiving.jpg)
+![Thanksgiving traditions]({{ site.github. url }}/katalog/assets/happy-thanksgiving.jpg)
 
 What are your Thanksgiving traditions? I didn't grow up with any one tradition. Every thanksgiving was different for my family and every Thanksgiving continues to be different when I spend it with them.
 

@@ -8,7 +8,7 @@ excerpt:
  "I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project. I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make."
 ---
 
-![knitted woodland dreams headband]({{ site.github.url }}/assets/Woodland-Dreams-Headband.jpg)
+![knitted woodland dreams headband]({{ site.github.url }}/katalog/assets/Woodland-Dreams-Headband.jpg)
 
 I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project. I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make.
 

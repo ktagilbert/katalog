@@ -9,7 +9,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
   <ul>
     <li class="work-sample">
       <a href="http://bishopsgate.com/architectural-gems-in-east-haddam/">
-        <img src="{{ site.github.url }}assets/work-samples/arch-gems-pic.jpg">
+        <img src="{{ site.github.url }}/assets/work-samples/arch-gems-pic.jpg">
       </a>
     </li>
     <li class="work-sample-text">
