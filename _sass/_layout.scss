@@ -278,13 +278,13 @@
 @media (max-width: 1200px) {
   #portfolio-list {
     margin: auto;
-    height: 500px;
+    height: 100%;
 
     .work-sample-text {
       display: block;
       width: 100%;
       margin: auto;
-      height: 500px;
+      height: 100%;
     }
   }
 }
@@ -301,10 +301,24 @@
 
       a {
         img {
-          height: 500px;
           display: table-cell;
         }
       }
+    }
+  }
+}
+
+
+@media (max-width: 600px) {
+  #portfolio-list {
+    margin: auto;
+    height: 100%;
+
+    .work-sample-text {
+      display: block;
+      width: 100%;
+      margin: auto;
+      height: 700px;
     }
   }
 }
