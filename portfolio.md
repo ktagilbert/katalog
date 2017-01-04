@@ -9,7 +9,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
   <ul>
     <li class="work-sample">
       <a href="http://bishopsgate.com/architectural-gems-in-east-haddam/">
-        <img src="{{ site.github.url }}/assets/work-samples/arch-gems-pic.jpg">
+        <img src="{{ site.github.url }}/katalog/assets/work-samples/arch-gems-pic.jpg">
       </a>
     </li>
     <li class="work-sample-text">
@@ -22,7 +22,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
   <ul>
     <li class="work-sample">
       <a href="http://vmphq.com/blog/local-seo-definition.php">
-        <img src="{{ site.github.url }}/assets/work-samples/local-seo.jpg">
+        <img src="{{ site.github.url }}/katalog/assets/work-samples/local-seo.jpg">
       </a>
     </li>
     <li class="work-sample-text">
@@ -45,7 +45,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
   <ul>
     <li class="work-sample">
       <a href="http://ileneking.com/blue-fall-accessorize-years-biggest-autumn-color/">
-        <img src="{{ site.github.url }}/assets/work-samples/fall-color.jpg">
+        <img src="{{ site.github.url }}/katalog/assets/work-samples/fall-color.jpg">
       </a>
     </li>
     <li class="work-sample-text">
@@ -65,7 +65,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
   <ul>
     <li class="work-sample">
       <a href="http://cdn2.hubspot.net/hub/433510/file-2435179109-pdf/LTC_Book_Final.pdf?__hssc=44263035.5.1483210028429&__hstc=44263035.973bb334d22f26c38b163762e803d4c5.1483210028426.1483210028426.1483210028426.1&__hsfp=871961122&hsCtaTracking=a10c08df-07d2-4c9e-a8f1-db2d93ee01b7%7Ca730fa59-efee-442c-8edd-d99a9ee49381">
-        <img src="{{ site.github.url }}/assets/work-samples/long-term-care.jpg">
+        <img src="{{ site.github.url }}//katalog/assets/work-samples/long-term-care.jpg">
       </a>
     </li>
     <li class="work-sample-text">
