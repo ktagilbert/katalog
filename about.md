@@ -5,7 +5,7 @@ permalink: /about/
 excerpt: Hi, my name is Katie. I spend my days at work managing client accounts and editorial calendars & then come home to my to write, read, knit & plan out outdoor activities to do on the weekends.
 ---
 
-Hi, My name is Katie Gilbert. I am a content writer in Beaverton, Oregon with an interest in writing, reading, knitting, and the outdoors. I spend my days at work managing client accounts and editorial calendars and then come home to my boyfriend and Border Collie where I write, read, and plan out outdoor activities to do on the weekend.
+Hi, My name is Katie Gilbert. I am a content writer in Beaverton, Oregon with an interest in writing, reading, knitting, and the outdoors. I spend my days at work managing client accounts and editorial calendars and then come home to my boyfriend and Border Collie where I write, read, and plan outdoor activities to do on the weekend.
 
 I initially studied Creative Writing and Journalism at Seattle University. After graduation, I went into digital marketing to focus on inbound lead generation and content creation. I now specialize in on-page SEO, inbound lead generation, and content marketing.
 

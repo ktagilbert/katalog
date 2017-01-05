@@ -15,7 +15,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
     <li class="work-sample-text">
       <p>"We are fortunate that the Bishopsgate Inn sits right up the road from the Connecticut River between the Gillette Castle State Park, rolling acres of farm land, and of course, architectural beauties that bring us back to the rich history of our town. For new visitors to our area, we are excited to introduce you to several historical and architectural gems all within minutes of our Bed and Breakfast here on Norwich Road..."</p>
       <h3>Writing Goals</h3>
-      <p>For the Bishopsgate Inn, I set out to write a blog article that would bring new visitors to the Inn. By introducing new attractions to their target audience, the owner and I hoped to grab their interest enough to guide them toward making a reservation at the Inn. Plus, I wrote consistent article for them to help them build up a strong, loyal readership all while capturing the friendly, and accommodating voice of the Inn owners, Lisa and Colin Kagel.</p>
+      <p>For the Bishopsgate Inn, I set out to write a blog article that would bring new visitors to the Inn. By introducing new attractions to their target audience, the owner and I hoped to grab their interest enough to guide them toward making a reservation. I wrote consistent article for them to help them build up a strong, loyal readership all while capturing the friendly, and accommodating voice of the Inn owners, Lisa and Colin Kagel.</p>
     </li>
   </ul>
 
@@ -57,7 +57,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
       </p>
       <h3>Writing Goals</h3>
       <p>
-        Working with Laurie King was always fun! For her, I wanted to focus on sharing her story and connecting with her audience. Plus, I wanted to create a few blog articles that would showcase her designs so that I could direct readers to the shop section of her website. To help, I wrote 9 blog articles. For each, I put a priority on creating a consistent and strong voice. Then, I either wrote about her new designs, how her target audience could wear or her designs, or I shared a little bit of her personal life so that her audience could connect with her story more.
+        Working with Laurie King was always fun! For her, I wanted to focus on sharing her story and connecting with her audience. Plus, I wanted to create a few blog articles that would showcase her designs so that I could direct readers to the shop section of her website. To help, I wrote nine blog articles. For each, I put a priority on creating a consistent and strong voice. Then, I either wrote about her new designs, how her target audience could wear her designs, or I shared a little bit of her personal life so that her audience could connect with her story more.
       </p>
     </li>
   </ul>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Improve Your Copywriting Workflow
-date: 2016-12-23 16:32:21
+date: 2016-12-26 16:32:21
 image: "copywriter.jpg"
 comments: true
 description: >
