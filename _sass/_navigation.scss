@@ -1,5 +1,20 @@
 .site-nav {
   a {
-    padding: 0 10px;  
+    padding: 0 10px;
+  }
+}
+
+@media (max-width: 700px) {
+  .menu {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (max-width: 700px) {
+  .site-title {
+    float: none;
+    width: 100%;
+    text-align: center;
   }
 }
