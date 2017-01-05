@@ -21,6 +21,19 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
 
   <ul>
     <li class="work-sample">
+      <a href="http://santasranch.net/">
+        <img src="{{ site.github.url }}/assets/work-samples/santas-ranch.jpg">
+      </a>
+    </li>
+    <li class="work-sample-text">
+      <p>"This holiday season, you’ll be one short drive away from your next favorite Christmas tradition. It all started in 2003 with a goal of helping you feel the joy of the Holiday season while starting a new family tradition. All you have to do is pack your kids into the car and watch their faces light up as they take in the beautiful Christmas displays, including lit up gingerbread houses, nativity scenes, depictions of the North Pole, and more all at our Christmas ranch..."</p>
+      <h3>Writing Goals</h3>
+      <p>I love Christmas! So, writing website content for Santa's Ranch was pretty much my dream project. I set out to help capture the magic of the holiday season and put it into words in a way that would direct people to pay her Christmas light displays a visit. At the same time, Melanie wanted to advertise her available concessions and help everyone be able to find her Ranch easily. The end result is festive content that complements the equally festive website that my team made for her.</p>
+    </li>
+  </ul>
+
+  <ul>
+    <li class="work-sample">
       <a href="http://vmphq.com/blog/local-seo-definition.php">
         <img src="{{ site.github.url }}/assets/work-samples/local-seo.jpg">
       </a>
