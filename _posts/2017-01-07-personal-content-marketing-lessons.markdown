@@ -7,7 +7,7 @@ comments: true
 description: >
  I've used the following 10 tips to help improve my content. Read on for some content writing tips to make your next piece be awesome!
 excerpt: >
- No matter what you're writing sometimes you just get stuck for words. Or worse, you feel like, in the words of [Chuck Wendig], "EVERYTHING IS NUCLEAR DOGSHIT."
+ No matter what you're writing sometimes you just get stuck for words. Or worse, you feel like, in the words of Chuck Wendig, "EVERYTHING IS NUCLEAR DOGSHIT."
 
 ---
 
