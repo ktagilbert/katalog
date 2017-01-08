@@ -15,7 +15,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
     <li class="work-sample-text">
       <p>"We are fortunate that the Bishopsgate Inn sits right up the road from the Connecticut River between the Gillette Castle State Park, rolling acres of farm land, and of course, architectural beauties that bring us back to the rich history of our town. For new visitors to our area, we are excited to introduce you to several historical and architectural gems all within minutes of our Bed and Breakfast here on Norwich Road..."</p>
       <h3>Writing Goals</h3>
-      <p>For the Bishopsgate Inn, I set out to write a blog article that would bring new visitors to the Inn. By introducing new attractions to their target audience, the owner and I hoped to grab their interest enough to guide them toward making a reservation. I wrote consistent article for them to help them build up a strong, loyal readership all while capturing the friendly, and accommodating voice of the Inn owners, Lisa and Colin Kagel.</p>
+      <p>For the Bishopsgate Inn, I set out to write a blog article that would bring new visitors to the Inn. By introducing new attractions to their target audience, the owner and I hoped to grab their interest enough to guide them toward making a reservation. I wrote consistent articles for them to help them build up a strong, loyal readership all while capturing the friendly, and accommodating voice of the Inn owners, Lisa and Colin Kagel.</p>
     </li>
   </ul>
 
