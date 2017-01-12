@@ -413,6 +413,15 @@
   .service:nth-of-type(even) {
     float: none;
     width: 100%;
-    height: 100%;
+    height: 300px;
+  }
+
+  .take-action {
+    width: 100%;
+    margin: none;
+
+    #inner-action {
+      width: 100%;
+    }
   }
 }
