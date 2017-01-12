@@ -339,3 +339,15 @@
 .service:nth-of-type(odd) {
   float: left;
 }
+
+.service {
+  .fa {
+    text-align: center;
+    color: $orange;
+    font-size: 2em;
+  }
+}
+
+.service-headers {
+  text-align: center;
+}
