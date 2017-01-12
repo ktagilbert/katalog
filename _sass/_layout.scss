@@ -326,4 +326,16 @@
 .service {
   width: 44%;
   margin: 3%;
+
+  h4 {
+    text-align: center;
+  }
+}
+
+.service:nth-of-type(even) {
+  float: right;
+}
+
+.service:nth-of-type(odd) {
+  float: left;
 }
