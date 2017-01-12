@@ -326,6 +326,7 @@
 .service {
   width: 44%;
   margin: 3%;
+  height: 300px;
 
   h4 {
     text-align: center;
@@ -385,6 +386,15 @@
     float: right;
     background-color: #d3d3d3;
     height: 120px;
+    padding: 15px 0;
     text-align: center;
+  }
+}
+
+@media(max-width: 600px) {
+  .take-action {
+    #inner-icon {
+      display: none;
+    }
   }
 }
