@@ -7,11 +7,10 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
 
 <div class="service-headers">
   <h2>It's Time to Share Your Story</h2>
-  <h3>Need Some Compelling Content?</h3>
 </div>
 
 <div class="service">
-<i class="fa fa-rss" aria-hidden="true"></i>
+<i class="fa fa fa-rss" aria-hidden="true"></i>
   <h4><strong>Blog Articles</strong></h4>
     <p>
       I write entertaining and informative blog articles. All of my articles will be SEO friendly so that people can find your brilliant ideas. Plus, graphics will be included. Just ask me about my SEO friendly blog writing process for articles between 300 and 1000 words.
@@ -48,5 +47,12 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
     Have any other digital marketing questions? Just ask me. I'll provide complimentary consulting if you're an existing client.
   </p>
 
-  <h2>Let's Get Started</h2>
-  <p><a href="mailto:ktagilbert@gmail.com">Email me</a> to learn about pricing</p>
+<div class="take-action">
+  <div id="inner-icon">
+    <i class="fa fa-pencil" aria-hidden="true"></i>
+  </div>
+  <div id="inner-action">
+    <h2>Let's Get Started</h2>
+    <p><a href="mailto:ktagilbert@gmail.com">Email me</a> to learn about pricing</p>
+  </div>
+</div>

@@ -351,3 +351,26 @@
 .service-headers {
   text-align: center;
 }
+
+.fa {
+  display: block;
+}
+
+.take-action {
+  background-color: $grey;
+  width: 70%
+  margin: 10%;
+}
+
+.take-action {
+  #inner-icon {
+    width: 20%;
+    display: inline-block;
+    float: left;
+  }
+  #inner-action {
+    width: 80%;
+    display: inline-block;
+    float: right;
+  }
+}
