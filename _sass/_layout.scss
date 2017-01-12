@@ -360,7 +360,8 @@
 
 .take-action {
   width: 90%;
-  margin: 5% 10% 0 0;
+  margin: 5% 10% 5% 0;
+  border: 1px solid #000;
 }
 
 .take-action {
@@ -384,7 +385,6 @@
     width: 80%;
     display: inline-block;
     float: right;
-    background-color: $mint;
     height: 90px;
     padding: 15px 0;
     text-align: center;
@@ -399,7 +399,7 @@
   }
 }
 
-@media(max-width: 850px) {
+@media(max-width: 860px) {
   .service {
     height: 400px;
   }
