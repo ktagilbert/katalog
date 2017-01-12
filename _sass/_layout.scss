@@ -361,7 +361,8 @@
 .take-action {
   width: 90%;
   margin: 5% 10% 5% 0;
-  border: 1px solid #000;
+  border: 1px solid $grey;
+  height: 120px;
 }
 
 .take-action {
@@ -413,7 +414,6 @@
   .service:nth-of-type(even) {
     float: none;
     width: 100%;
-    height: 200px;
   }
 
   .take-action {
