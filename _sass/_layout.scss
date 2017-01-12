@@ -410,10 +410,14 @@
   .service:nth-of-type(odd) {
     float: none;
     width: 100%;
+    height: auto;
+    padding: 10px 0;
   }
   .service:nth-of-type(even) {
     float: none;
     width: 100%;
+    height: auto;
+    padding: 10px 0;
   }
 
   .take-action {
