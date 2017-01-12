@@ -21,7 +21,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
   <i class="fa fa-telegram" aria-hidden="true"></i>
   <h4><strong>e-Newsletters</strong></h4>
     <p>
-      I use Mailchimp to write creative, beautiful, and concise eNewsletters. I believe that the best newsletters show who you are. They are also short, sweet and to the point! So, don't waste your time. I'll write your message for you and send it to everyone you know! Services include on-off emails and drip campaigns.
+      I use Mailchimp to write creative, beautiful, and concise eNewsletters. I believe that the best newsletters show who you are. They are also short, sweet and to the point! So, don't waste your time. I'll write your message for you and send it to everyone you know! Services include one-off emails and drip campaigns.
     </p>
 </div>
 
@@ -37,7 +37,7 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
   <i class="fa fa-newspaper-o" aria-hidden="true"></i>
   <h4><strong>Press Releases</strong></h4>
     <p>
-      Have some big news to share? Tell me about it so that I can help you spread the word. I have a background in Journalism so I know how to treat your story with the respect it deserves. All it takes is one phone call to fill me on your promotion or company news.
+      Have some big news to share? Tell me about it so that I can help you spread the word. I have a background in journalism so I know how to treat your story with the respect it deserves. All it takes is one phone call to fill me in on your promotion or company's news.
     </p>
 </div>
 
