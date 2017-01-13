@@ -383,7 +383,7 @@
       width: 42%;
       background-color: #fff;
       border-radius: 10px;
-      padding: 2%;
+      padding: 2% 0;
       color: $orange;
       float: left;
       margin: 0 2%;
@@ -453,6 +453,12 @@
       #inner-action {
         .button {
           width: 100%;
+          float: none;
+        }
+        .button:nth-of-type(odd) {
+          float: none;
+      }
+        .button:nth-of-type(even) {
           float: none;
         }
       }
