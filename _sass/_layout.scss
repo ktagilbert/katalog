@@ -395,6 +395,23 @@
     height: 100px;
     padding: 15px 0;
     text-align: center;
+
+    .button {
+      width: 40%;
+      display: inline-block;
+      background-color: $orange;
+      border-radius: 10px;
+      padding: 2%;
+      color: #fff;
+      float: left;
+      margin: 0 2%;
+    }
+    .button:nth-of-type(even) {
+      float: right;
+    }
+    .button:nth-of-type(odd) {
+      float: left;
+    }
   }
 }
 
