@@ -52,12 +52,12 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
     <h2>Let's Get Started</h2>
     <div class="button">
       <p>
-        <a href="mailto:ktagilbert@gmail.com">Email me</a> to learn about pricing.
+        <a href="mailto:ktagilbert@gmail.com">Email me</a> to learn about pricing
       </p>
     </div>
     <div class="button">
       <p>
-        <a href="{{ site.github.url }}/assets/katie-gilbert-resume.pdf" download="katie-gilbert-resume.pdf">Download my resume.</a>
+        <a href="{{ site.github.url }}/assets/katie-gilbert-resume.pdf" download="katie-gilbert-resume.pdf">Download my resume</a>
       </p>
     </div>
   </div>
