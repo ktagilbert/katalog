@@ -98,3 +98,19 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
     </li>
   </ul>
 </div>
+
+<div class="take-action">
+  <div id="inner-action">
+    <h2>Let's Get Started</h2>
+    <div class="button">
+      <p>
+        <a href="mailto:ktagilbert@gmail.com">Email me to learn about pricing</a>
+      </p>
+    </div>
+    <div class="button">
+      <p>
+        <a href="{{ site.github.url }}/assets/katie-gilbert-resume.pdf" download="katie-gilbert-resume.pdf">Download my resume</a>
+      </p>
+    </div>
+  </div>
+</div>
