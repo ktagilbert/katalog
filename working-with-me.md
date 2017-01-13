@@ -2,7 +2,7 @@
 layout: page
 title: Working With Me
 permalink: /working-with-me/
-excerpt: My name is Katie and I'm a copywriter for hire here in Beaverton, OR. I write blog articles, press releases, eNewsletters, and more. Plus, free digital marketing consulting. 
+excerpt: My name is Katie and I'm a copywriter for hire here in Beaverton, OR. I write blog articles, press releases, eNewsletters, and more. 
 ---
 
 <div class="service-headers">
