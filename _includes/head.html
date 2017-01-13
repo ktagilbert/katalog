@@ -5,12 +5,29 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" property="og:description" content="Katie Gilbert is a copywriter for hire based in Beaverton, Oregon. Read on to see her portfolio or read the blog for content marketing tips and more!">
 
   <link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Open+Sans+Condensed:300|Sacramento" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.github.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.github.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.github.url }}">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@KT_a_Gilbert">
+<meta name="twitter:creator" content="KT_a_Gilbert">
+<meta name="twitter:title" content="Katie Gilbert | Content Marketing Tips and Portfolio">
+<meta name="twitter:description" content="Katie Gilbert is a copywriter for hire based in Beaverton, Oregon. Read on to see her portfolio or read the blog for content marketing tips and more!">
+
+<!-- Facebook Open Graph Meta Tags -->
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="800">
+<meta property="og:url" content="https://ktagilbert.github.io/katalog/">
+<meta property="og:title" content="Katalog | Content Marketing Tips & Portfolio">
+<meta property="og:site_name" content="Katalog">
+<meta property="og:image" content="({{ site.github. url }}/assets/writing-tips.jpg)">
+
 
   <!--favicon-->
   <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/favicon/apple-touch-icon-57x57.png" />

@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-excerpt: Hi, my name is Katie. I spend my days at work managing client accounts and editorial calendars & then come home to my to write, read, knit & plan out outdoor activities to do on the weekends.
+excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work here, including blog articles, website copy, and even eBooks. 
 ---
 
 <div id="portfolio-list">

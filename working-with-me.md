@@ -2,7 +2,7 @@
 layout: page
 title: Working With Me
 permalink: /working-with-me/
-excerpt: Hi, my name is Katie. I spend my days at work managing client accounts and editorial calendars & then come home to my to write, read, knit & plan out outdoor activities to do on the weekends.
+excerpt: My name is Katie and I'm a copywriter for hire here in Beaverton, OR. I write blog articles, press releases, eNewsletters, and more. Plus, free digital marketing consulting. 
 ---
 
 <div class="service-headers">
