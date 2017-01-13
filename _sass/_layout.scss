@@ -368,14 +368,15 @@
   margin: 10% 0;
 }
 
+#inner-action {
+  text-align: center;
+}
+
 .take-action {
   #inner-action {
-    text-align: center;
-
     .button {
       width: 40%;
-      display: inline-block;
-      background-color: #fff
+      background-color: #fff;
       border-radius: 10px;
       padding: 2%;
       color: $orange;
