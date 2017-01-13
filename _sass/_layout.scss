@@ -380,7 +380,7 @@
 .take-action {
   #inner-action {
     .button {
-      width: 44%;
+      width: 42%;
       background-color: #fff;
       border-radius: 10px;
       padding: 2%;
@@ -449,10 +449,12 @@
 }
 
 @media(max-width: 700px) {
-  #inner-action {
-    .button {
-      width: 100%;
-      float: none;
-    }
+  .take-action {
+      #inner-action {
+        .button {
+          width: 100%;
+          float: none;
+        }
+      }
   }
 }
