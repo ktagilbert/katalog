@@ -365,52 +365,40 @@
 }
 
 .take-action {
-  width: 90%;
-  margin: 5% 10% 5% 0;
-  border: 1px solid $orange;
-  height: 140px;
+  margin: 10% 0;
 }
 
 .take-action {
-  #inner-icon {
-    width: 20%;
-    display: inline-block;
-    float: left;
-    text-align: center;
-    color: #fff;
-    background-color: $orange;
-    height: 110px;
-    padding: 15px 0;
-
-    .fa {
-      display: block;
-      padding-bottom: 10px;
-      font-size: 4em;
-    }
-  }
   #inner-action {
-    width: 80%;
-    display: inline-block;
-    float: right;
-    height: 100px;
-    padding: 15px 0;
     text-align: center;
 
     .button {
       width: 40%;
       display: inline-block;
-      background-color: $orange;
+      background-color: #fff
       border-radius: 10px;
       padding: 2%;
-      color: #fff;
+      color: $orange;
       float: left;
       margin: 0 2%;
+
+      a {
+        color: $orange;
+      }
     }
     .button:nth-of-type(even) {
       float: right;
     }
     .button:nth-of-type(odd) {
       float: left;
+    }
+    .button:hover {
+      background-color: $orange;
+      color: #fff;
+
+      a {
+        color: #fff;
+      }
     }
   }
 }

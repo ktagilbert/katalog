@@ -48,9 +48,6 @@ excerpt: Hi, my name is Katie. I spend my days at work managing client accounts 
   </p>
 
 <div class="take-action">
-  <div id="inner-icon">
-    <i class="fa fa-pencil" aria-hidden="true"></i>
-  </div>
   <div id="inner-action">
     <h2>Let's Get Started</h2>
     <div class="button">
