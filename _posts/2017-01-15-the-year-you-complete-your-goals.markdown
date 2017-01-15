@@ -11,7 +11,7 @@ excerpt: >
 
 ---
 
-![Content Writing Goals]({{ site.github. url }}/assets/work-samples/creative-writing.jpg")
+![Content Writing Goals]({{ site.github. url }}/assets/work-samples/creative-writing.jpg)
 
 What are your goals for 2017? Try asking yourself that question. Maybe get out a piece of paper and write down 3-10 goals while you're at it. I'll start.
 
