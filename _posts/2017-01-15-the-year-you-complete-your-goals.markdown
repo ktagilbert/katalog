@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017: The Year You Complete Your Goals
+title: 2017 - The Year You Complete Your Goals
 date: 2017-01-15 11:32:21
 image: "creative-writing.jpg"
 comments: true
@@ -11,9 +11,10 @@ excerpt: >
 
 ---
 
-![10 content writing lessons]({{ site.github. url }}/assets/creative-writing.jpg")
+![Content Writing Goals]({{ site.github. url }}/assets/creative-writing.jpg")
 
 What are your goals for 2017? Ask yourself that right now. Maybe get out a piece of paper and write down 3-10 goals while you're at it. I'll start.
+
 
 ## My Goals for 2017
 
