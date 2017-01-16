@@ -98,23 +98,3 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
     </li>
   </ul>
 </div>
-
-<div class="take-action">
-  <div id="inner-action">
-  <div class="inner-action-header">
-    <h2>Let's Get Started</h2>
-  </div>
-  <div class="button-border">
-    <div class="button">
-      <p>
-        <a href="mailto:ktagilbert@gmail.com">Email me to learn about pricing</a>
-      </p>
-    </div>
-    <div class="button">
-      <p>
-        <a href="{{ site.github.url }}/assets/katie-gilbert-resume.pdf" download="katie-gilbert-resume.pdf">Download my resume</a>
-      </p>
-    </div>
-    </div>
-  </div>
-</div>
