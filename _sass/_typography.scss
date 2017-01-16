@@ -55,3 +55,30 @@ article {
 .small-text {
   font-size: 0.8em;
 }
+
+
+.list-of-testimonials {
+  font-style: italic;
+  border: 1px solid $orange;
+  height: 200px;
+  text-align: center;
+  padding: 5%;
+  margin: 0% 0 5% 0;
+}
+
+.testimonial-header {
+  padding: 5px;
+  background-color: $orange;
+  width: 0 5%;
+  margin: 0;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 10%;
+}
+
+@media(max-width: 1200px) {
+  .list-of-testimonials {
+    height: 100%;
+  }
+}
