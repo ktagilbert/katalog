@@ -25,15 +25,17 @@ h1 {
 }
 
 article {
-  margin: auto;
-  width: 85%;
-  font-size: 1.1em;
-
   header {
     h1 {
       text-align: center;
     }
   }
+}
+
+.blog-post-content {
+  margin: auto;
+  width: 85%;
+  font-size: 1.1em;
 }
 
 
