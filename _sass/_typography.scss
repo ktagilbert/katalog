@@ -25,14 +25,13 @@ h1 {
 }
 
 article {
+  margin: auto;
+  width: 85%;
+  font-size: 1.1em;
+
   header {
     h1 {
       text-align: center;
-    }
-    p {
-      margin: auto;
-      width: 85%;
-      font-size: 1.1em;
     }
   }
 }
@@ -40,13 +39,9 @@ article {
 
 @media(max-width: 700px) {
   article {
-    header {
-      p {
-        margin: none;
-        width: 95%;
-        font-size: 1em;
-      }
-    }
+    margin: auto;
+    width: 95%;
+    font-size: 1em;
   }
 }
 
