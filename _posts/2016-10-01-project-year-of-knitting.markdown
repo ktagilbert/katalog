@@ -16,7 +16,7 @@ I picked up knitting when I was a senior in high school. Back then, I thought th
 
 All the same, I had so much fun making the scarf. I was obsessed with counting all my stitches to make sure none were dropped or picked up. I think I still remember that each row had exactly 24 stitches. Counting was useful but man, so tedious. I definitely gave that habit up pretty quick.
 
-## Gaining Ambition With a Hobby
+### Gaining Ambition With a Hobby
 
 After that first scarf, I made more scarves. It was all I knew how to do for about two years really. So when I say knitting is a latent hobby, I really mean it! I didn't even do anything other than garter stitch for the first year. When I learned how to purl, I made a lot of failed patterns.
 
@@ -25,13 +25,13 @@ Finally, I branched out to making hats and cable knitting. I made two cable knit
 I think my knitting latency stems from the fact that I lack ambition when it comes to my hobby. I never cared to push myself to do more. I was really just happy to be occupied with something that yielded a pretty accessory. But that is kind of boring. I am sick of scarves and hats now so I really want to push myself to do more.
 
 
-## Knitting Goals
+### Knitting Goals
 
 Now, I want to spend some time learning how to complete different projects. Hats and scarves will be included but I also want to learn how to knit shawls, sweaters, slippers, and leg warmers. It would also be nice if I could manage to limit my mistakes.
 
 **So here's the plan:** I'm going to make at least near-perfect, finished projects starting with something easy. Right now I'm working on a headband. It's almost done too! I just need to sew together the ends. From there, I'm going to tackle a few other projects.
 
-## Knitted Projects I'd Like to Accomplish
+### Knitted Projects I'd Like to Accomplish
 
 Here are some of the projects I'm excited to try out.
 
@@ -41,7 +41,7 @@ Here are some of the projects I'm excited to try out.
 
 | ![handmade slippers]({{ site.github.url }}/assets/slippers.jpg) | ![hand-knit shrug]({{ site.github.url }}/assets/knit-shrug.jpg) |
 
-## What I'll Need to Complete These Projects
+### What I'll Need to Complete These Projects
 
 **Chevron Scarf**
 - 930 yards of [Miss Babs Yummy 2-Ply Toes](http://www.ravelry.com/yarns/library/miss-babs-yummy-2-ply-toes)

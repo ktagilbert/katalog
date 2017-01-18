@@ -26,7 +26,7 @@ I think I'm going to wear this today to help hold my hair in place under my hood
 
 I'm definitely excited that this project is complete because it really is one of the more well-made accessories I have made so far. It helped that I frogged every mistake I noticed and kept my tension pretty even throughout the whole project. The only thing is that I made my button holes a bit too big so I had to go back and sew them smaller - ruining how neat they had looked. But oh well. No one is going to notice when the headband is buttoned up anyway.  
 
-## How to Make the Headband
+### How to Make the Headband
 
 ![Amazing Knitting Kit]({{ site.github.url}}/assets/knitting-tools.jpg)
 

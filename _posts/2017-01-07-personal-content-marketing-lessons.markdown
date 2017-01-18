@@ -18,7 +18,7 @@ No matter what you're writing, sometimes you just get stuck for words. Or worse,
 Well, hey, we all feel that way occasionally. In fact, I feel like that practically every other hour I'm writing. But sometimes I also feel like I've written the Mona Lisa of content. In those moments, I've used the following 10 tips to help my content be awesome:
 
 
-## My Top 10 Content Writing Lessons
+### My Top 10 Content Writing Lessons
 
 
 1. **Always listen to your work out loud.** I know it's annoying. I know it's tedious. I know your work is already probably perfect. But what if it isn't? Then, you'll look careless for not going that extra mile to catch any last mistakes. I personally can't edit my own work without hearing it read out loud. If I don't have the option to do so, I then make anyone around me read the work before sending it off or hitting "publish." It's just worth avoiding an anxiety attack in my opinion. So, I always press "read text out loud" or hit option esc. on my Mac to hear the robotic computer voice read over my content. Yes, I even used this tip for the blog article you're reading now.

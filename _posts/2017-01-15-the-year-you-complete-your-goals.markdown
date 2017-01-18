@@ -16,7 +16,7 @@ excerpt: >
 What are your goals for 2017? Try asking yourself that question. Maybe get out a piece of paper and write down 3-10 goals while you're at it. I'll start.
 
 
-## My Goals for 2017
+### My Goals for 2017
 
 1. I want to write consistently. Both on [Medium](https://medium.com/@KT_a_Gilbert) and here on [Katalog]({{ site.github. url }}).
 2. In that vein, I want to begin work on a novel. Whether that be a fiction, non-fiction, or even a book of poetry. I don't know yet. Notice that I don't say I want to publish that novel. That will be a goal for next year.
@@ -34,10 +34,10 @@ As you can see in my list above, I want to start writing consistently. Which, I'
 
 Deciding that I can't keep driving myself crazy with the idea of a goal, I decided to make it a real, concrete plan that I'll commit to every day. I started this morning with a simple writing prompt. You can read what I wrote [here](https://medium.com/@KT_a_Gilbert/getting-back-to-me-5a23d8d8832c#.ys9fqoi6p).
 
-### Committing to Your Goals
+#### Committing to Your Goals
 Are you motivated yet? Excited to start working toward your goals in 2017? Maybe you want to start eating a healthier breakfast five days a week or, even better, you want to [improve your content writing chops]({{ site.github. url }}/2016/12/26/how-to-improve-your-copywriting-workflow.html). Okay then, let's make it happen!
 
-### How to Achieve Your Resolutions
+#### How to Achieve Your Resolutions
 
 **Make it visual.** I don't really believe in vision boards. That's just me and I'm not knocking anyone else who does. I'm just not a visual learner and I believe that vision boards only work for those that do best with visual cues. If that's you, then a vision board might be the perfect route to take. That way you can keep your goals in mind each day. Just make sure to put your visual reminders somewhere you see on a daily basis. That could be above your desk, in the kitchen, or next to your bedroom mirror. Alternatively, you could list out your goals and put them on your fridge or the first page of your daily planner.
 

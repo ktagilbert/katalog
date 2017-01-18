@@ -28,7 +28,7 @@ Maybe I have to reach my goal in baby steps like athletes do when they begin wor
 
 I still can't even believe that some of my clients have a day job and run their own businesses on the side. Successful businesses too! I guess that's why they have a marketing agency helping them. **They have learned that they can't do everything themselves.** That's definitely my downfall. I hate accepting help from others. I would much rather do what needs to get done when it's need to get done than wait for someone else to do it for me. That's probably something I need to learn to get it over.
 
-## Letting compulsions slide
+### Letting compulsions slide
 
 The dishes don't always have to be clean right when I get home. The throw blanket doesn't need to be folded and carefully draped over the back of the couch before I sit down. Plus, the dog definitely doesn't need to be brushed before I race out the door to work.
 

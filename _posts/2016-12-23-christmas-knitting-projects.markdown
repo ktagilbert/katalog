@@ -15,7 +15,7 @@ I started by picking out some medium weight Wool-Ease yarn from Lion Brand in go
 The beauty of the Gryffindor themed scarf was that it reminded me of when I first began knitting. I had made a similar scarf for a friend when I first began knitting. But I'm pretty sure that one turned out pretty sloppy - whoops.
 
 
-## How I Made the Gryffindor Scarf
+### How I Made the Gryffindor Scarf
 
 ![Handmade Gryffindor Scarf]({{ site.github. url }}/assets/harry-potter-scarf.jpg)
 
@@ -34,7 +34,7 @@ Plus, there isn't anything fancy about this project. You just garter stitch for 
 - Repeat these instructions so that you have a double gold stripe every 10 inches.
 - Then, bind off and weave in all your ends.
 
-## How to Make the Matching Hat
+### How to Make the Matching Hat
 
 ![Handmade Gryffindor Scarf]({{ site.github. url }}/assets/hat-outside.jpg)
 
