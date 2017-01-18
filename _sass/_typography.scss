@@ -8,7 +8,7 @@ h1 {
 
 .underline {
   padding-bottom: 5px;
-  border-bottom: 1px solid $mint;
+  border-bottom: 1px solid $blue;
   width: 80%;
 }
 
@@ -19,7 +19,6 @@ h1 {
 }
 
 .post-title {
-  font-family: "Sacramento", cursive;
   font-size: 60px;
   padding: 0 0 5% 0;
 }
@@ -80,28 +79,24 @@ article {
 }
 
 
-.list-of-testimonials {
-  font-style: italic;
-  border: 1px solid $orange;
-  height: 200px;
-  text-align: center;
-  padding: 5%;
-  margin: 0% 0 5% 0;
+.testimonials {
+    margin: 0;
+    background-color: #f2f2f2;
+    padding: 5% 10%;
 }
 
-.testimonial-header {
-  padding: 5px;
-  background-color: $orange;
-  width: 0 5%;
-  margin: 0;
-  color: #fff;
-  font-weight: 700;
-  text-align: center;
-  margin-top: 10%;
-}
-
-@media(max-width: 1200px) {
-  .list-of-testimonials {
-    height: 100%;
+.testimonials {
+  h2 {
+    text-align: center;
+    font-weight: 700;
+    background-color: lightblue;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 20px 10px 1px 2px;
   }
+}
+
+.list-of-testimonials {
+    padding: 5% 0;
 }
