@@ -5,7 +5,7 @@
  .home {
    padding: 0 15%;
  }
- 
+
 .site-header {
     border-top: 5px solid $orange;
     border-bottom: 1px solid $grey-color-light;
@@ -173,9 +173,6 @@
 /**
  * Page content
  */
-.page-content {
-    padding: $spacing-unit 0;
-}
 
 .page-heading {
     font-size: 20px;
@@ -494,7 +491,6 @@
   }
 
   .take-action {
-    width: 100%;
     margin: none;
 
     #inner-action {
@@ -534,4 +530,21 @@
     .about-image {
       box-shadow: 20px 10px 0 pink;
     }
+}
+
+@media(max-width: 700px) {
+  .about-content {
+    width: 100%;
+    float: none;
+    margin: 15% 0 0 0;
+  }
+  .about-box {
+    width: 80%;
+    margin: auto;
+    float: none;
+
+    img {
+      width: 100%;
+    }
+  }
 }
