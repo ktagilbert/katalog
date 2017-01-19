@@ -12,9 +12,13 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
     </a>
   </div>
   <div class="work-sample-text">
-      <p>"We are fortunate that the Bishopsgate Inn sits right up the road from the Connecticut River between the Gillette Castle State Park, rolling acres of farm land, and of course, architectural beauties that bring us back to the rich history of our town. For new visitors to our area, we are excited to introduce you to several historical and architectural gems all within minutes of our Bed and Breakfast here on Norwich Road..."</p>
+      <p>
+        "We are fortunate that the Bishopsgate Inn sits right up the road from the Connecticut River between the Gillette Castle State Park, rolling acres of farm land, and of course, architectural beauties that bring us back to the rich history of our town. For new visitors to our area, we are excited to introduce you to several historical and architectural gems all within minutes of our Bed and Breakfast here on Norwich Road..."
+      </p>
       <h3>Writing Goals</h3>
-      <p>For the Bishopsgate Inn, I set out to write a blog article that would bring new visitors to the Inn. By introducing new attractions to their target audience, the owner and I hoped to grab their interest enough to guide them toward making a reservation. I wrote consistent articles for them to help them build up a strong, loyal readership all while capturing the friendly, and accommodating voice of the Inn owners, Lisa and Colin Kagel.</p>
+      <p>
+        For the Bishopsgate Inn, I set out to write a blog article that would bring new visitors to the Inn. By introducing new attractions to their target audience, the owner and I hoped to grab their interest enough to guide them toward making a reservation. I wrote consistent articles for them to help them build up a strong, loyal readership all while capturing the friendly, and accommodating voice of the Inn owners, Lisa and Colin Kagel.
+      </p>
     </div>
 
     <div class="work-sample">
@@ -23,9 +27,13 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
       </a>
     </div>
     <div class="work-sample-text">
-      <p>"This holiday season, you’ll be one short drive away from your next favorite Christmas tradition. It all started in 2003 with a goal of helping you feel the joy of the Holiday season while starting a new family tradition. All you have to do is pack your kids into the car and watch their faces light up as they take in the beautiful Christmas displays, including lit up gingerbread houses, nativity scenes, depictions of the North Pole, and more all at our Christmas ranch..."</p>
+      <p>
+        "This holiday season, you’ll be one short drive away from your next favorite Christmas tradition. It all started in 2003 with a goal of helping you feel the joy of the Holiday season while starting a new family tradition. All you have to do is pack your kids into the car and watch their faces light up as they take in the beautiful Christmas displays, including lit up gingerbread houses, nativity scenes, depictions of the North Pole, and more all at our Christmas ranch..."
+      </p>
       <h3>Writing Goals</h3>
-      <p>I love Christmas! So, writing website content for Santa's Ranch was pretty much my dream project. I set out to help capture the magic of the holiday season and put it into words in a way that would direct people to pay her Christmas light displays a visit. At the same time, Melanie wanted to advertise her available concessions and help everyone be able to find her Ranch easily. The end result is festive content that complements the equally festive website that my team made for her.</p>
+      <p>
+        I love Christmas! So, writing website content for Santa's Ranch was pretty much my dream project. I set out to help capture the magic of the holiday season and put it into words in a way that would direct people to pay her Christmas light displays a visit. At the same time, Melanie wanted to advertise her available concessions and help everyone be able to find her Ranch easily. The end result is festive content that complements the equally festive website that my team made for her.
+      </p>
     </div>
 
     <div class="work-sample">
