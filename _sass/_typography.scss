@@ -106,9 +106,19 @@ article {
 }
 
 .list-of-testimonials {
-    padding: 5% 0;
+  padding: 5% 15%;
+  font-size: 1.2em;
 }
 
-// @media(max-width: 530px) {
-//   padding: 15% 0;
-// }
+@media(max-width: 840px) {
+  .list-of-testimonials {
+    padding: 5% 5%;
+  }
+}
+
+@media(max-width: 500px) {
+  .list-of-testimonials {
+    padding: 5% 0;
+    font-size: 1.1em;
+  }
+}
