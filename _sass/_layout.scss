@@ -560,3 +560,16 @@
     }
   }
 }
+
+/*disqus*/
+
+#layout {
+  width: 65%;
+  margin: auto;
+}
+
+@media(max-width: 650px){
+  #layout {
+    width: 95%;
+  }
+}

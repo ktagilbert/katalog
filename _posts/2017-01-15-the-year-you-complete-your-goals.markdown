@@ -18,10 +18,10 @@ What are your goals for 2017? Try asking yourself that question. Maybe get out a
 
 ### My Goals for 2017
 
-1. I want to write consistently. Both on [Medium](https://medium.com/@KT_a_Gilbert) and here on [Katalog]({{ site.github. url }}).
+1. I want to write consistently. Both on [Medium](https://medium.com/@KT_a_Gilbert) and here on Katalog.
 2. In that vein, I want to begin work on a novel. Whether that be a fiction, non-fiction, or even a book of poetry. I don't know yet. Notice that I don't say I want to publish that novel. That will be a goal for next year.
 3. Another writing goal! Wow, I sure want to write this year. I do want to get *something* published.
-4. I want to [find some amazing clients](({{ site.github. url }}/working-with-me/) so that I can also continue doing the work that I love.
+4. I want to [find some amazing clients]({{ site.github. url }}/working-with-me/) so that I can also continue doing the work that I love.
 5. Learn how to drive stick-shift. Oh hey, a non-writing goal!
 6. I want to save up for the perfect home desk.
 7. I want to pay off my damn TV! The one I put on credit to help establish some credit. Now, I just want to finally stop paying that bill because hey, I have good credit now (yay!)
