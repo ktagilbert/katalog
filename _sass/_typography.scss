@@ -95,6 +95,12 @@ article {
     padding: 10px;
     box-shadow: 20px 10px 1px 2px;
   }
+  a {
+    color: #fff;
+  }
+  a:visited {
+    color: #fff;
+  }
 }
 
 @media(max-width: 530px) {
