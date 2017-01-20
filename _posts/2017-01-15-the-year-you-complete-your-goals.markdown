@@ -30,7 +30,7 @@ What are your goals for 2017? Try asking yourself that question. Maybe get out a
 
 I'll be doing the same. I'm starting a bit late though because I never actually made any New Year's resolutions. Realizing that this morning, I set aside some time to focus on what it is I want to accomplish in 2017. Then, I decided to tackle just one of my goals this morning.
 
-As you can see in my list above, I want to start writing consistently. Which, I'm not going to lie, is terrifying to me! I'm not talking about content marketing though. I'm talking about personal writing projects that live outside of my work and this blog. Now, this is a goal that has been swimming around in my head for *months*. Yet, each day I avoid working on a personal writing project. It hashonestly been driving me insane.
+As you can see in my list above, I want to start writing consistently. Which, I'm not going to lie, is terrifying to me! I'm not talking about content marketing though. I'm talking about personal writing projects that live outside of my work and this blog. Now, this is a goal that has been swimming around in my head for *months*. Yet, each day I avoid working on a personal writing project. It has honestly been driving me insane.
 
 Deciding that I can't keep driving myself crazy with the idea of a goal, I decided to make it a real, concrete plan that I'll commit to every day. I started this morning with a simple writing prompt. You can read what I wrote [here](https://medium.com/@KT_a_Gilbert/getting-back-to-me-5a23d8d8832c#.ys9fqoi6p).
 
