@@ -17,7 +17,7 @@ Getting the right message down in words can be frustrating. Especially when ther
 
 The trick from here is figuring out which of these is going to take priority. **Well, a key way to both increase your sales and gain consistent website traffic is to find a way to solve your target audience's problems via your content marketing strategy.** Let me explain more.
 
-## Why You Need a Content Marketing Strategy
+### Why You Need a Content Marketing Strategy
 
 You see, two years ago I was working as an in-house digital marketer for a senior home care company. Here, I spent my first week on the job just learning more about the company's target audience. It turns out they weren't who I expected...at all!
 
@@ -48,7 +48,7 @@ For my company, this approach to starting a content strategy worked wonders! I m
 
 To begin creating your own content strategy, I highly suggest looking into creating your own persona profiles. To help, try checking out [Jodi Harriss' article on 'How to Create Easy, Yet Actionable Content Marketing Personas.'](http://contentmarketinginstitute.com/2015/04/content-marketing-personas/) As Jodi writes, "Without personas, you may only be guessing what content your audience wants, which means you are more likely to revert to creating content around what *you* know best (your products and company) instead of around the information *your audience* is actively seeking."
 
-## Building Content Marketing Personas
+### Building Content Marketing Personas
 
 This afternoon, I would try taking some time to research your key personas. You can start right away by asking yourself a few questions.
 
