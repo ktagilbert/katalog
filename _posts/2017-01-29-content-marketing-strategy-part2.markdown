@@ -26,7 +26,7 @@ So now let's focus on each part of Buddy's message. In part 2 of this blog serie
 ### Finding "The Right Content"
 To start with, what the hell is "the right content"? This is a big one! The right content, to me, encompasses both your subject matter *and* what format your content will be in.
 
-**To start figuring out what message you'll be putting out into the vast depths of the internet, you can take a look at your persona profiles from [part 1 of this blog series](https://ktagilbert.github.io/katalog//2017/01/26/content-marketing-strategy-part1.html).** I would just remember that your message should be something that your target audience is going to eat up. Even better, it will be something they love so much that they just *have* to share it around.
+**To start figuring out what message you'll be putting out into the vast depths of the internet, you can take a look at your persona profiles from [part 1 of this blog series](https://ktagilbert.github.io/katalog//2017/01/26/define-content-marketing-strategy.html).** I would just remember that your message should be something that your target audience is going to eat up. Even better, it will be something they love so much that they just *have* to share it around.
 
 That's the goal anyway. You need to get your message in the right hands to continue on with your other goals.
 
