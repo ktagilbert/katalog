@@ -45,32 +45,32 @@ A blog article is a 300-1000 word post about a single topic. These usually end w
 ![writing an eBook]({{ site.github. url }}/assets/ebook.jpg)
 
 
-#####eBook
+#### eBook
 An eBook is a longer form of content that is meant to educate your target audience about a particular topic. You can look to HubSpot to see an example. They have a [prolific amount of eBooks](https://library.hubspot.com/ebook) on everything from  *An Introduction to LinkedIn for Business* to *How to Create Email Newsletters That Don't Suck*.
 
 ![why write a white paper]({{ site.github. url }}/assets/white-paper.jpg)
 
-##### White Paper
+#### White Paper
 These are information based types of content. You can think of these as reports or guides that help communicate your expertise on a subject. If you're ever looking to build up some ethos, and your target audience needs a more formal and professional type of resource, then creating a white paper would be an awesome bet!
 
 ![choosing to write a press release]({{ site.github. url }}/assets/press-release.jpg)
 
-##### Press Release:
+#### Press Release:
 Press releases are meant to help you share your news. Whether it's a sale, a store location move, a new owner, or just your franchisee owner's personal journey to success, any of these are a good reason to type up a cohesive press release. Either way, press releases have the benefit of being widely syndicated, so you can both share your news and get tons of links back to your website each time your press release appears in a different publication.
 
 ![share an infographic]({{ site.github. url }}/assets/infographic.jpg)
 
-#####Infographic
+#### Infographic
 Infographics are awesome because we all have short attention spans whether we want to admit it or not. So, if you can get a graphic designer to display some key info your audience will love in a beautiful infographic, you can bet that the graphic will be shared widely. **Just don't ever, ever, ever, put your infographic above the fold.** Meaning, try to display your infographic below the "read more" text in a blog article or place it behind a sign up form before you just give away your beautiful hard work for free.
 
 ![value of an eNewsletter]({{ site.github. url }}/assets/eNewsletter.jpg)
 
-#####eNewsletter
+#### eNewsletter
 I personally love eNewsletters. Now, some may think that these will just end up in your subscriber's spam folder. It's true, that's a possibility. ***BUT***, you can take steps to avoid that from happening (I'll write about that in a future article). Plus, eNewsletters are a key way to help you build up loyalty with your readers, share exclusive insider promotions, or even include links back to your other content to help rejuvenate some of its traction. Definitely take a look at [SumoMe](https://sumome.com/) to see how they use eNewsletters or [read this article](https://blog.hubspot.com/marketing/lead-nurturing-email-examples#sm.0001fkt4aa1682fkvsvj5homahm9h) to see more of what I'm talking about.
 
 ![why use landing pages]({{ site.github. url }}/assets/landing-page.jpg)
 
-#####Landing Page
+#### Landing Page
 This one is the lion of the jungle. I'm being serious too. If you want to build up your eNewsletter subscriber list, or learn more about your primary audience, definitely consider a landing page. These can help you advertise a new piece of content (like an eBook) and provide an attractive new page for your website that can be a big boost to your website traffic numbers.
 
 
