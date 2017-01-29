@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Define a Content Marketing Strategy
+title: How to Define a Content Marketing Strategy Part 2
 date: 2017-01-29 11:12:09
 image: "content-strategy2.jpg"
 comments: true
