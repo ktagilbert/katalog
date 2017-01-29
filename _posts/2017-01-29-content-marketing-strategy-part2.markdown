@@ -38,7 +38,7 @@ Okay, awesome. Then, you're going to want to figure what kind of content will in
 
 ![Blog Article Strategy]({{ site.github. url }}/assets/blogging.jpg)
 
-####Blog Article
+#### Blog Article
 
 A blog article is a 300-1000 word post about a single topic. These usually end with call to actions. Either you can ask your readers to leave a comment to help boost your content engagement or you can ask them to go somewhere else from your blog article. You see, if your readers are already hooked on what you have written, then that is the best time to get them to take another action because they are at their most likely to continue engaging with your content. So, why not send them to your new product landing page at the end of your blog? Alternatively, ask them to sign up for your eNewsletter to help them learn about your new promotion?
 
