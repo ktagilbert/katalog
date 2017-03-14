@@ -12,6 +12,6 @@ markdown: kramdown
 include: ["_pages"]
 
 # Heroku Config
-gems: ['kramdown', 'jekyll-assets']
+gems: ['kramdown', 'jekyll-assets', 'octopress-paginate']
 
 exclude: ['vendor', 'Procfile', 'Rakefile', 'Gemfile']

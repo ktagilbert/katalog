@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     addressable (2.4.0)
     colorator (1.1.0)
@@ -44,6 +44,10 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    octopress-hooks (2.6.2)
+      jekyll (>= 2.0)
+    octopress-paginate (1.2.0)
+      octopress-hooks
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rack (1.6.4)
@@ -74,6 +78,7 @@ DEPENDENCIES
   foreman
   jekyll (= 3.2.0)
   jekyll-assets
+  octopress-paginate
   rack-contrib
   rake
   thin
