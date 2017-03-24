@@ -5,7 +5,7 @@ date: 2017-03-24 11:12:09
 image: "home-painting.jpg"
 comments: true
 description: >
-  I took on a few projects around the house last week. Doing something with my hands always seems to help distract my mind.
+ I took on a few projects around the house last week. Doing something with my hands always seems to help distract my mind.
 excerpt: >
  Whenever I have to make a huge transition in my life, I get that pit in my stomach signaling a surge of anxiety. Somehow, the surge never calmly flows. It only ebbs in powerful waves, seeming to land right on my gut. Do you know that feeling?
 
