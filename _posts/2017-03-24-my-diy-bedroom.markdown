@@ -31,11 +31,11 @@ Cue a trip to my neighborhood Home Depot. I drove down the street and I bought p
 
 ![Glitterati by Behr]({{ site.github. url }}/assets/painted-wall.png)
 
-## Step 1: Painting
+### Step 1: Painting
 
 It took me just one day to paint the wall including all the taping and preparation. I definitely recommend getting a paint roller made of wool by the way! I had painted three other walls in the house with a foam roller and I couldn't get the paint even to save my life. A friend of mine had to step in actually to fix one wall I had attempted. So, if you're like me and haven't painted a lot, just start with the slightly more expensive wool roller. It was a breeze to use and the paint was completely even.
 
-## Step 2: A DIY Garment Rack
+### Step 2: A DIY Garment Rack
 
 While I waited for the paint to dry, I also went to Fred Meyer and grabbed some light blue Krylon spray paint. I had given up on my curtain rod idea, and went to to Bed, Bath, & Beyond to buy a simple garment rack. It came to around $24.00 and the spray paint was about $10.00 for two bottles.
 
@@ -47,7 +47,7 @@ To help bring some light to my space though, I wanted my garment rack to be a li
 
 I'd say I did a fairly good job. I'll admit, there is a drip mark at the back of the rack. But hey, it's only in the back! The project took 24 hours. Yet, it probably only took that long because I had never used spray paint before. I probably did 3 coats of paint and used the entire two bottles of the spray paint.
 
-## Step 3: Putting it all Together
+### Step 3: Putting it all Together
 
 The end result is beyond my expectations. I never thought that I could install anything using wall anchors. Granted, the project was a failure, I was still able to screw those anchors in and install a rod so, I'm calling that a success as far as first projects go. I also *never, ever* thought that I could paint a wall on my own. Let alone do it well.
 
