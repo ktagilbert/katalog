@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My DIY Bedroom: Easing My Mind with Home Projects
+title: My DIY Bedroom - Easing My Mind with Home Projects
 date: 2017-03-24 11:12:09
 image: "home-painting.jpg"
 comments: true
