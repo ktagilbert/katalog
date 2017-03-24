@@ -11,7 +11,7 @@ excerpt: >
 
 ---
 
-![step 1 of content strategy]({{ site.github. url }}/assets/home-painting.jpg)
+![My DIY Bedroom]({{ site.github. url }}/assets/home-painting.jpg)
 
 Whenever I have to make a huge transition in my life, I get that pit in my stomach signaling a surge of anxiety. Somehow, the surge never calmly flows. It only ebbs in powerful waves, seeming to land right on my gut. Do you know that feeling?
 
