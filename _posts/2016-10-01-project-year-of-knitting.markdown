@@ -4,11 +4,12 @@ title:  "Project: Year of Knitting"
 date: 2016-10-01 10:46:36 -0700
 image: knitting-inspiration.jpg
 comments: true
+alias: [https://ktagilbert.github.io/katalog//2016/10/01/project-year-of-knitting.html]
 excerpt:
  "Do you have a latent hobby? That something you love to do but just don't get around to often? Yeah, I think we all do. It could be sewing, DIYing, painting, or even reading. My latent hobby happens to be knitting."
 ---
 
-![gaining knitting inspiration]({{ site.github. url }}/assets/knitting-inspiration.jpg)
+![gaining knitting inspiration](/assets/knitting-inspiration.jpg)
 
 Do you have a latent hobby? That something you ***love*** to do but just don't get around to often? Yeah, I think we all do. It could be sewing, DIYing, painting, or even reading. My latent hobby happens to be knitting.
 
@@ -35,11 +36,11 @@ Now, I want to spend some time learning how to complete different projects. Hats
 
 Here are some of the projects I'm excited to try out.
 
-| ![knitted chevron-cowl]({{ site.github.url }}/assets/chevron-scarf.jpg) | ![knitted rug]({{ site.github.url }}/assets/floor-mat.jpg) |
+| ![knitted chevron-cowl](/assets/chevron-scarf.jpg) | ![knitted rug](/assets/floor-mat.jpg) |
 
-| ![beautiful scarf pattern]({{ site.github.url }}/assets/jasmine-scarf.jpg) | ![knitted baby blanket]({{ site.github.url }}/assets/knit-blanket2.jpg) |
+| ![beautiful scarf pattern](/assets/jasmine-scarf.jpg) | ![knitted baby blanket](/assets/knit-blanket2.jpg) |
 
-| ![handmade slippers]({{ site.github.url }}/assets/slippers.jpg) | ![hand-knit shrug]({{ site.github.url }}/assets/knit-shrug.jpg) |
+| ![handmade slippers](/assets/slippers.jpg) | ![hand-knit shrug](/assets/knit-shrug.jpg) |
 
 ### What I'll Need to Complete These Projects
 

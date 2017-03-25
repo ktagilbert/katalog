@@ -4,11 +4,12 @@ title:  "Finding Time to be Creative"
 date: 2016-10-16 10:46:36 -0700
 image: creative-quote.jpg
 comments: true
+alias: [https://ktagilbert.github.io/katalog//2016/10/16/2016-on-my-reading-list.html]
 excerpt:
  "Question. Where do you guys draw the line between laziness v. working. I find that I'm either working or doing chores and if I'm not doing that, I'm sitting on my butt watching T.V. or browsing through Instagram."
 ---
 
-![finding time to be creative]({{ site.github. url }}/assets/creative-quote.jpg)
+![finding time to be creative](/assets/creative-quote.jpg)
 
 Question. Where do you guys draw the line between laziness v. working. I find that I'm either working or doing chores and if I'm not doing that, I'm sitting on my butt watching T.V. or browsing through Instagram.
 

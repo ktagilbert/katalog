@@ -4,6 +4,7 @@ title: My Top Personal Content Writing Lessons
 date: 2017-01-07 16:32:21
 image: "writing-tips.jpg"
 comments: true
+alias: [https://ktagilbert.github.io/katalog//2017/01/07/personal-content-marketing-lessons.html]
 description: >
  I've used the following 10 tips to help improve my content. Read on for some content writing tips to make your next piece be awesome!
 excerpt: >
@@ -11,7 +12,7 @@ excerpt: >
 
 ---
 
-![10 content writing lessons]({{ site.github. url }}/assets/writing-tips.jpg)
+![10 content writing lessons](/assets/writing-tips.jpg)
 
 No matter what you're writing, sometimes you just get stuck for words. Or worse, you feel like, in the words of [Chuck Wendig](http://terribleminds.com/ramble/2014/03/11/the-varied-emotional-stages-of-writing-a-book/), "EVERYTHING IS NUCLEAR DOGSHIT."
 
@@ -28,7 +29,7 @@ Well, hey, we all feel that way occasionally. In fact, I feel like that practica
 3. **Notice where you repeat yourself!** Maybe you'll notice that you've used the word "elegant" six times in your content about jewelry. Well, that's just not interesting. Instead, try using a different word. Better yet, skip the adjective and describe what you're trying to talk about in a more detailed way. Write about the color of the gold in the jewelry piece or find a way to describe the effect the jewelry will have on the reader when they see it in person. Anything is better than repeating yourself. For me, I've noticed that I use the words "So," "Plus," and "this" far too often. What boring words!!
 
 4. **Don't write content that turns out like a tag I found on one of my christmas gifts a couple of weeks ago.** How embarrassing.
-![bad example of good content]({{ site.github. url }}/assets/bad-example.jpg)
+![bad example of good content](/assets/bad-example.jpg)
 
 5. **It's okay to look at other's work.** Just don't copy it, alright? But browsing the words of Joanna Gaines' on hgtv.com to help you complete the 10th blurb you're working on for that home furniture company's website is fine. The goal is to find what's steal-worthy. Then, you can mentally file away what you like and proceed to re-write it in a way that's more tailored to your client or company.
 

@@ -4,6 +4,7 @@ title: How to Define a Content Marketing Strategy Part 1
 date: 2017-01-26 11:32:21
 image: "new-content.jpg"
 comments: true
+alias: [https://ktagilbert.github.io/katalog//2017/01/26/define-content-marketing-strategy.html]
 description: >
  A key way to both increase your sales and gain consistent website traffic is by writing finding a way to solve your target audience's problems. That's where a solid content marketing strategy comes in
 excerpt: >
@@ -11,7 +12,7 @@ excerpt: >
 
 ---
 
-![Content Marketing Strategy]({{ site.github. url }}/assets/new-content.jpg)
+![Content Marketing Strategy](/assets/new-content.jpg)
 
 Getting the right message down in words can be frustrating. Especially when there are so many different priorities you have to attend to. The boss needs to get a fresh sales report on his desk, your awesome co-workers are talking about their weekends in the background, and you've been tasked with figuring out how many people are actually visiting your website on a consistent basis. That can be enough to make even the most centered person feel overwhelmed. Trust me, I've been there.
 

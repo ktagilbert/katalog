@@ -4,6 +4,7 @@ title: How to Improve Your Copywriting Workflow
 date: 2016-12-26 16:32:21
 image: "copywriter.jpg"
 comments: true
+alias: [https://ktagilbert.github.io/katalog//2016/12/26/how-to-improve-your-copywriting-workflow.html]
 description: >
  Want to know how your agency can improve its copywriting workflow? Read more to see how your agency may be failing your writers and how to improve the situation.
 excerpt: >
@@ -24,7 +25,7 @@ The traditional formula is to have that freelancer re-write an intro and conclus
 
 
 # The three things that may be breaking your copywriting workflow
-![Improve Your Copywriting Workflow]({{ site.github. url }}/assets/copywriter.jpg)
+![Improve Your Copywriting Workflow](/assets/copywriter.jpg)
 
 1) Your writers are getting bored and burnt out by writing the same thing over and again. Meaning, they are becoming apathetic. Why? It's not because they are lazy. **It's because they are being forced to do a monotonous task, which is naturally leading them toward disinterest.** The task is no longer creative but instead formulaic. More than that, once a writer has to do more than 5 of these at a time, they begin to skim rather than give your assignment the attention it deserves.
 

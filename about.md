@@ -2,12 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+alias: [https://ktagilbert.github.io/katalog/about/]
 excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content marketer here in Beaverton, OR. Read on to learn more about me and my work.
 ---
 
 <div class="about-box">
   <div class="about-image">
-    <img src="{{ site.github.url }}/assets/writer.jpg">
+    <img src="/assets/writer.jpg">
   </div>
 </div>
 

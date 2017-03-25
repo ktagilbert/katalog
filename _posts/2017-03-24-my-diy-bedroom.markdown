@@ -4,6 +4,7 @@ title: My DIY Bedroom - Easing My Mind with Home Projects
 date: 2017-03-24 11:12:09
 image: "home-painting.jpg"
 comments: true
+alias: [https://ktagilbert.github.io/katalog//2017/03/24/my-diy-bedroom.html]
 description: >
  I took on a few projects around the house last week. Doing something with my hands always seems to help distract my mind.
 excerpt: >
@@ -11,7 +12,7 @@ excerpt: >
 
 ---
 
-![My DIY Bedroom]({{ site.github. url }}/assets/home-painting.jpg)
+![My DIY Bedroom](/assets/home-painting.jpg)
 
 Whenever I have to make a huge transition in my life, I get that pit in my stomach signaling a surge of anxiety. Somehow, the surge never calmly flows. It only ebbs in powerful waves, seeming to land right on my gut. Do you know that feeling?
 
@@ -21,7 +22,7 @@ To help, I took on a few projects around the house last week. Doing something wi
 
 The first project I tackled had a couple different purposes. First of all, I was having a hard time finding a place in my home that was all mine. I do have one corner of my bedroom that seems to be allocated just for me though. To make the most of that space (about 28 sq. ft), I decided to completely redo my set up.
 
-![DIY garment rack]({{ site.github. url }}/assets/closet-idea.jpg)
+![DIY garment rack](/assets/closet-idea.jpg)
 
 I had started by trying to install a curtain rod to hang my clothes on. I had seen the picture above and just loved how clean it looked. In reality....Let's just say it was a bad idea.
 
@@ -29,7 +30,7 @@ I had installed the rod with wall anchors and screws. Little did I know I should
 
 Cue a trip to my neighborhood Home Depot. I drove down the street and I bought paint, spackling, and a wool paint brush roller to accommodate the rough texture on my wall. I had been trying to find a color that would go with the pale green walls we have here. Earlier, I was going to go with a magenta. But then, I found a color called Glitterati from Behr. I mean, since I was decorating a space meant just for me, right not go for a color called Glitterati, right?
 
-![Glitterati by Behr]({{ site.github. url }}/assets/painted-wall.png)
+![Glitterati by Behr](/assets/painted-wall.png)
 
 ### Step 1: Painting
 
@@ -43,7 +44,7 @@ I hated the black color of the garment rack because a lot of my furniture is alr
 
 To help bring some light to my space though, I wanted my garment rack to be a little brighter to help make my space seem happier. So, I laid out a paint tarp in the garage, pulled on my safety mask, and got to spray painting all the black parts of the garment rack. The project was oddly cathartic and a lot more difficult than I had imagined. I had to to get all the little nooks and crannies of the rack while also avoiding drip marks.
 
-![DIY garment rack]({{ site.github. url }}/assets/garment-rack.png)
+![DIY garment rack](assets/garment-rack.png)
 
 I'd say I did a fairly good job. I'll admit, there is a drip mark at the back of the rack. But hey, it's only in the back! The project took 24 hours. Yet, it probably only took that long because I had never used spray paint before. I probably did 3 coats of paint and used the entire two bottles of the spray paint.
 

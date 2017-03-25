@@ -4,11 +4,12 @@ title:  "Happy Thanksgiving"
 date: 2016-11-24 10:46:36 -0700
 image: happy-thanksgiving.jpg
 comments: true
+alias: [https://ktagilbert.github.io/katalog//2016/11/24/2016-happy-thanksgiving.html]
 excerpt:
  "What are your Thanksgiving traditions? I didn't grow up with any one tradition. Every thanksgiving was different for my family and every Thanksgiving continues to be different when I spend it with them."
 ---
 
-![Thanksgiving traditions]({{ site.github. url }}/assets/happy-thanksgiving.jpg)
+![Thanksgiving traditions](/assets/happy-thanksgiving.jpg)
 
 What are your Thanksgiving traditions? I didn't grow up with any one tradition. Every thanksgiving was different for my family and every Thanksgiving continues to be different when I spend it with them.
 
