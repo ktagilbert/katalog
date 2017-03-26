@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-alias: [https://ktagilbert.github.io/katalog/portfolio/]
+alias: https://ktagilbert.github.io/katalog/portfolio/
 excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work here, including blog articles, website copy, and even eBooks.
 ---
 

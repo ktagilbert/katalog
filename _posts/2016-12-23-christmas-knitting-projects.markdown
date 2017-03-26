@@ -4,7 +4,7 @@ title:  "Christmas Knitting Project: a Harry Potter Themed Christmas"
 date: 2016-11-24 10:46:36 -0700
 image: A-Classic-Project.jpg
 comments: true
-alias: [https://ktagilbert.github.io/katalog//2016/11/24/christmas-knitting-projects.html]
+alias: https://ktagilbert.github.io/katalog//2016/11/24/christmas-knitting-projects.html
 excerpt:
  "I've been picturing Molly Weasley's knit sweaters all month long. Probably because a co-worker just asked me to knit his fiance a Gryffindor themed scarf and hat."
 ---

@@ -6,6 +6,7 @@ gem 'foreman'
 gem 'thin'
 gem 'rack-contrib'
 gem 'jekyll-assets'
+gem 'jekyll-paginate'
 gem 'font-awesome-sass'
 gem 'octopress-paginate'
 

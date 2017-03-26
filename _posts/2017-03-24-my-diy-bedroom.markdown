@@ -4,7 +4,7 @@ title: My DIY Bedroom - Easing My Mind with Home Projects
 date: 2017-03-24 11:12:09
 image: "home-painting.jpg"
 comments: true
-alias: [https://ktagilbert.github.io/katalog//2017/03/24/my-diy-bedroom.html]
+alias: https://ktagilbert.github.io/katalog//2017/03/24/my-diy-bedroom.html
 description: >
  I took on a few projects around the house last week. Doing something with my hands always seems to help distract my mind.
 excerpt: >
@@ -44,7 +44,7 @@ I hated the black color of the garment rack because a lot of my furniture is alr
 
 To help bring some light to my space though, I wanted my garment rack to be a little brighter to help make my space seem happier. So, I laid out a paint tarp in the garage, pulled on my safety mask, and got to spray painting all the black parts of the garment rack. The project was oddly cathartic and a lot more difficult than I had imagined. I had to to get all the little nooks and crannies of the rack while also avoiding drip marks.
 
-![DIY garment rack](assets/garment-rack.png)
+![DIY garment rack](/assets/garment-rack.png)
 
 I'd say I did a fairly good job. I'll admit, there is a drip mark at the back of the rack. But hey, it's only in the back! The project took 24 hours. Yet, it probably only took that long because I had never used spray paint before. I probably did 3 coats of paint and used the entire two bottles of the spray paint.
 

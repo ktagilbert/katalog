@@ -4,7 +4,7 @@ title: My Top Personal Content Writing Lessons
 date: 2017-01-07 16:32:21
 image: "writing-tips.jpg"
 comments: true
-alias: [https://ktagilbert.github.io/katalog//2017/01/07/personal-content-marketing-lessons.html]
+alias: https://ktagilbert.github.io/katalog//2017/01/07/personal-content-marketing-lessons.html
 description: >
  I've used the following 10 tips to help improve my content. Read on for some content writing tips to make your next piece be awesome!
 excerpt: >

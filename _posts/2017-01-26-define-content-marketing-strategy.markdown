@@ -4,7 +4,7 @@ title: How to Define a Content Marketing Strategy Part 1
 date: 2017-01-26 11:32:21
 image: "new-content.jpg"
 comments: true
-alias: [https://ktagilbert.github.io/katalog//2017/01/26/define-content-marketing-strategy.html]
+alias: https://ktagilbert.github.io/katalog//2017/01/26/define-content-marketing-strategy.html
 description: >
  A key way to both increase your sales and gain consistent website traffic is by writing finding a way to solve your target audience's problems. That's where a solid content marketing strategy comes in
 excerpt: >

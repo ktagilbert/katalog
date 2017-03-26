@@ -4,7 +4,7 @@ title: How to Improve Your Copywriting Workflow
 date: 2016-12-26 16:32:21
 image: "copywriter.jpg"
 comments: true
-alias: [https://ktagilbert.github.io/katalog//2016/12/26/how-to-improve-your-copywriting-workflow.html]
+alias: https://ktagilbert.github.io/katalog//2016/12/26/how-to-improve-your-copywriting-workflow.html
 description: >
  Want to know how your agency can improve its copywriting workflow? Read more to see how your agency may be failing your writers and how to improve the situation.
 excerpt: >
