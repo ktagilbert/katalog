@@ -38,19 +38,19 @@ excerpt: Katie Gilbert is a copywriter for hire based in Beaverton, Oregon. Read
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
           <a href="{{ post.url }}">
             <img class="post-list-img" src="/assets/{{ post.image }}">
-            {{ post.excerpt }}
           </a></br>
+            {{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>
-</div>
+  </div>
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Prev</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span>Prev</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -64,12 +64,13 @@ excerpt: Katie Gilbert is a copywriter for hire based in Beaverton, Oregon. Read
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span>Next</span>
   {% endif %}
 </div>
 {% endif %}
+
       <!--
     {% for post in site.posts %}
       <li>
