@@ -28,7 +28,7 @@ I had started by trying to install a curtain rod to hang my clothes on. I had se
 
 I had installed the rod with wall anchors and screws. Little did I know I should have used studs (Thank you Home Depot guy for the tip!). So, when I put my clothes on the rod, it fell straight out of the wall. *Wonderful.* This was reason number two I needed to paint.
 
-Cue a trip to my neighborhood Home Depot. I drove down the street and I bought paint, spackling, and a wool paint brush roller to accommodate the rough texture on my wall. I had been trying to find a color that would go with the pale green walls we have here. Earlier, I was going to go with a magenta. But then, I found a color called Glitterati from Behr. I mean, since I was decorating a space meant just for me, right not go for a color called Glitterati, right?
+Cue a trip to my neighborhood Home Depot. I drove down the street and I bought paint, spackling, and a wool paint brush roller to accommodate the rough texture on my wall. I had been trying to find a color that would go with the pale green walls we have here. Earlier, I was going to go with a magenta. But then, I found a color called Glitterati from Behr. I mean, since I was decorating a space meant just for me, why not go for a color called Glitterati, right?
 
 ![Glitterati by Behr](/assets/painted-wall.png)
 
@@ -46,7 +46,7 @@ To help bring some light to my space though, I wanted my garment rack to be a li
 
 ![DIY garment rack](/assets/garment-rack.png)
 
-I'd say I did a fairly good job. I'll admit, there is a drip mark at the back of the rack. But hey, it's only in the back! The project took 24 hours. Yet, it probably only took that long because I had never used spray paint before. I probably did 3 coats of paint and used the entire two bottles of the spray paint.
+I'd say I did a fairly good job. I'll admit, there is a drip mark at the back of the rack. But hey, it's only in the back! The project took 24-hours. Yet, it probably only took that long because I had never used spray paint before. I probably did three coats of paint and used the entire two bottles of the spray paint.
 
 ### Step 3: Putting it all Together
 

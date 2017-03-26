@@ -14,7 +14,7 @@ excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content mark
 
 <div class="about-content">
 <p>
-  Hi, My name is Katie Gilbert. I am a content writer in Beaverton, Oregon with an interest in writing, reading, knitting, and the outdoors. I spend my days at work managing client accounts and editorial calendars and then come home to my boyfriend and Border Collie where I write, read, and plan outdoor activities to do on the weekend.
+  Hi, My name is Katie Gilbert. I am a digital marketer in Beaverton, Oregon with an interest in writing, reading, knitting, and the outdoors. I spend my days at work managing client accounts and editorial calendars and then come home to write, read, knit, and plan outdoor activities to do on the weekend, and a bunch more that you'll be sure to read about here. 
 </p>
 <p>
   I initially studied Creative Writing and Journalism at Seattle University. After graduation, I went into digital marketing to focus on inbound lead generation and content creation. I now specialize in on-page SEO, inbound lead generation, and content marketing.
