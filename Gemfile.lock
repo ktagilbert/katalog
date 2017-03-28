@@ -37,6 +37,7 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-server-redirects (0.1.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -80,6 +81,7 @@ DEPENDENCIES
   jekyll (= 3.2.0)
   jekyll-assets
   jekyll-paginate
+  jekyll-server-redirects
   octopress-paginate
   rack-contrib
   rake

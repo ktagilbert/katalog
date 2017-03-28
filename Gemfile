@@ -13,3 +13,8 @@ gem 'octopress-paginate'
 group :jekyll_plugins do
   gem 'octopress-paginate'
 end
+
+
+group :jekyll_plugins do
+  gem 'jekyll-server-redirects'
+end
