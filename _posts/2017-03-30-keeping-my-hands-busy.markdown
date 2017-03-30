@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keeping My Hands Busy
+title: A Simple Way to Decorate Your Front Door
 date: 2017-03-30 08:35:09
 image: "home-wreathe.png"
 comments: true
@@ -11,9 +11,9 @@ excerpt: >
  A couple of weeks ago I got my DIY fix in by creating a wreathe for my front door. I have a red door so, as much as I wanted a wreathe filled with light pink or blue flowers, I decided to go for some colors that complemented the bold color I already have.
 
 ---
-[how to make a DIY wreathe](/assets/home-wreathe.png)
+![how to make a DIY wreathe](/assets/home-wreathe.png)
 
-Normally, I am fine just eating out every night and coming home to a book or new episode on Hulu of 'This is Us.' Now though, [with my new intentions](), DIYs are taking over my nights (and my bank account). It's a kick I picked up in high school/college and it feels good to get back to it again honestly.
+Normally, I am fine just eating out every night and coming home to a book or new episode on Hulu of 'This is Us.' Now though, [with my new intentions](http://katalogspace.com/2017/03/28/the-year-i-want-to-be-happy.html), DIYs are taking over my nights (and my bank account). It's a kick I picked up in high school/college and it feels good to get back to it again honestly.
 
 I got into DIY'ing from reading blogs actually. I loved the projects that were featured on [Lana Red Studio](http://www.lanaredstudio.com/) and [Design*Sponge](http://www.lanaredstudio.com/). But back then I only ever took on sewing projects that I could easily do in my bedroom or dorm. Now, I have a whole house, not to mention a garage, to help me get a little more ambitious.
 
@@ -31,4 +31,10 @@ A trip to [Scrap PDX](http://scrappdx.org/) helped me find some vibrant yellow a
 6. I then let everything dry for about 10 minutes while I went and played with my dog.
 7. Then, I took the wreathe and centered it above the door knocker on my front door. I pushed a nail through the straw wreathe so the nail was hidden and them hammered it into the door just enough to secure my new decoration. I did the same for the bottom of the wreathe as well.
 
-That's all it took! Just seven steps and about 40 minutes of crafting. I honestly wish the project had taken longer because I still had a whole morning in front of me.
+**That's all it took! Just seven steps and about 40 minutes of crafting.** I honestly wish the project had taken longer because I still had a whole morning in front of me.
+
+For this project, I definitely recommend taking on a little tip from [Gretchen Rubin that I got from an episode of her podcast](http://gretchenrubin.com/happiness_project/2016/12/podcast-95-mis-en-place/). It's called practicing mis en place. The goal is to gather up all your crafting materials before you start your project.
+
+It was a huge help for me to have a clean workspace with trash bags covering my coffee table and to have all my materials right there waiting for me. **That way, I didn't have to scramble for any supplies and could just focus on the placement of my wire flowers. It's definitely worth a try to practice mise en place during your next DIY too!**
+
+I can't wait to hear in the comments what you're working on this week as well. Thanks for reading guys.  
