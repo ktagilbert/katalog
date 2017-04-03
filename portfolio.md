@@ -33,7 +33,7 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
       </p>
       <h3>Writing Goals</h3>
       <p>
-        I love Christmas! So, writing website content for Santa's Ranch was pretty much my dream project. I set out to help capture the magic of the holiday season and put it into words in a way that would direct people to pay her Christmas light displays a visit. At the same time, Melanie wanted to advertise her available concessions and help everyone be able to find her Ranch easily. The end result is festive content that complements the equally festive website that my team made for her.
+        I love Christmas! So writing website content for Santa's Ranch was pretty much my dream project. I set out to help capture the magic of the holiday season and put it into words in a way that would direct people to pay her Christmas light displays a visit. At the same time, Melanie wanted to advertise her available concessions and help everyone be able to find her Ranch easily. The end result is festive content that complements the equally festive website that my team made for her.
       </p>
     </div>
 
