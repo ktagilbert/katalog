@@ -4,7 +4,6 @@ title: A Simple Way to Decorate Your Front Door
 date: 2017-03-30 12:29:09
 image: "home-wreathe.png"
 comments: true
-alias: https://ktagilbert.github.io/katalog//2017/03/24/my-diy-bedroom.html
 description: >
  Read on to see how to make a simple DIY Wreathe in just 7 steps and 40 minutes. The project was surprisingly simple turned out beautifully!
 excerpt: >

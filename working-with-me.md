@@ -30,7 +30,7 @@ excerpt: My name is Katie and I'm a copywriter for hire here in Beaverton, OR. I
   <i class="fa fa-laptop" aria-hidden="true"></i>
   <h4><strong>Website Content</strong></h4>
     <p>
-      Your website content is arguably the most important part of your site. Your site should be easy to navigate, pretty, and, above all, communicate your missions and personality. , solet me tell your story! I'll make sure the content matches your company voice while directing people to where they need to go on your site.
+      Your website content is arguably the most important part of your site. Your site should be easy to navigate, pretty, and, above all, communicate your missions and personality. So let me tell your story! I'll make sure the content matches your company voice while directing people to where they need to go on your site.
     </p>
 </div>
 

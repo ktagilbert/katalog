@@ -4,7 +4,6 @@ title: The Year I Want to be Happy
 date: 2017-03-28 08:35:09
 image: "morning-happiness.jpeg"
 comments: true
-alias: https://ktagilbert.github.io/katalog//2017/03/24/my-diy-bedroom.html
 description: >
  Here are some ways I've been making my day-to-day life happier - all part of the "year I want to be happy."
 excerpt: >
