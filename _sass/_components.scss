@@ -14,3 +14,39 @@
   padding: 10% 0;
   font-weight: bold;
 }
+
+.post-nav-title {
+  list-style: none;
+  width: 65%;
+  margin: auto;
+  padding: 5% 0%;
+
+  .post-nav-link {
+    font-family: "Sacramento";
+    font-weight: bold;
+    font-size: 1.8em;
+    color: $blue;
+
+    .post-nav-link:hover {
+      color: #111 !important;
+    }
+
+    #title-prev {
+      width: 45%;
+      text-align: center;
+      display: inline-block;
+      float: left;
+    }
+  }
+}
+
+.post-nav-title {
+  .post-nav-link {
+    #title-next {
+      width: 45%;
+      text-align: center;
+      display: inline-block;
+      float: right;
+    }
+  }
+}
