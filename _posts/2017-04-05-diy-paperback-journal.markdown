@@ -1,13 +1,13 @@
 ---
 layout: post
 title: DIY Journal Binding - Make Your Own Paperback Notebook
-date: 2017-04-02 10:38:09
+date: 2017-04-05 04:04:09
 image: "/diy-journal/intro-to-bookbinding.png"
 comments: true
 description: >
- Here's a little guide on how to make the most of your trip to Seaside, Oregon. Read on for what to pack, what to do, and how to enjoy a classic PNW getaway.
+ With my extra free time right now, I'm making the most of my inspiration buzz. I'm going to show you how to make a paperback journal using a simple backstitch method.
 excerpt: >
- This week, I am on a little at-home vacation. Meaning, I have time all to myself! To start my vacation off right, I took a trip to Seaside, OR.
+ With my extra free time right now, I'm making the most of my inspiration buzz. I'm going to show you how to make a paperback journal using a simple backstitch method.
 
 ---
 ![DIY journal binding](/assets/diy-journal/intro-to-bookbinding.png)
