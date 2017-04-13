@@ -22,17 +22,18 @@
   padding: 5% 0%;
 
   .post-nav-link {
-    font-family: "Sacramento";
     font-weight: bold;
-    font-size: 1.8em;
+    font-size: 1.5em;
     color: $blue;
+    text-align: center;
 
     .post-nav-link:hover {
       color: #111 !important;
+      text-decoration: underline;
     }
 
     #title-prev {
-      width: 45%;
+      width: 46%;
       text-align: center;
       display: inline-block;
       float: left;
@@ -47,6 +48,14 @@
       text-align: center;
       display: inline-block;
       float: right;
+    }
+  }
+}
+
+@media (max-width: 700px) {
+  .post-nav-title {
+    .post-nav-link {
+      font-size: 1em;
     }
   }
 }
