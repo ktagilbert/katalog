@@ -12,11 +12,14 @@
   display: none;
   width: 100%;
   background-color: $orange;
-  color: #fff;
+  padding: 10px 0;
+  position: fixed;
 
-  #mobile-icons-list {
+  a {
     display: inline-block;
-    list-style: none;
+    color: #fff;
+    width: 15%;
+    text-align: center;
   }
 }
 
