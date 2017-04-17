@@ -8,6 +8,24 @@
   }
 }
 
+#mobile-social-icons {
+  display: none;
+  width: 100%;
+  background-color: $orange;
+  color: #fff;
+
+  #mobile-icons-list {
+    display: inline-block;
+    list-style: none;
+  }
+}
+
+@media (max-width: 1100px) {
+  #mobile-social-icons {
+    display: initial;
+  }
+}
+
 .pagination {
   width: 65%;
   text-align: center;
@@ -27,11 +45,6 @@
     color: $blue;
     text-align: center;
 
-    .post-nav-link:hover {
-      color: #111 !important;
-      text-decoration: underline;
-    }
-
     #title-prev {
       width: 46%;
       text-align: center;
@@ -39,6 +52,10 @@
       float: left;
     }
   }
+}
+
+.post-nav-link a:hover {
+  color: #111 !important;
 }
 
 .post-nav-title {
@@ -55,7 +72,7 @@
 @media (max-width: 700px) {
   .post-nav-title {
     .post-nav-link {
-      font-size: 1em;
+      font-size: 0.9em;
     }
   }
 }
