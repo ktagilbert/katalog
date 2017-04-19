@@ -54,22 +54,22 @@ For my journal, I grabbed some college ruled paper from Target and just cut off 
 ### Step 3 - Create Holes for Your Stitches
 If you've seen a traditional paperback journal from Rifle Paper Co., for example, you'll notice that they use backstitch along the spine of the journal. The stitches are also spaced out about every 1/3" or so. To do the same, take your awl and begin creating holes for your needle to go through along the center fold of each of your sheets of paper.
 
-### Step 3 - Trim Your Journal Cover
+### Step 4 - Trim Your Journal Cover
 ![paperback journaling](/assets/diy-journal/paperback-inside-cover.png)
 
 Grab a sheet of printer paper and cut it to the same size as your signatures (the paper you just poked holes in). Then, take your sheet of decorative paper and cut it so that it's 1/2" wider than your signatures on all sides.
 
-### Step 4 - Complete the Cover
+### Step 5 - Complete the Cover
 ![craft your own journal](/assets/diy-journal/krylon-spray-adhesive.png)
 
 Grab your spray adhesive and coat the back of your decorative paper with a thin layer. After that, carefully center your printer paper on the back of the decorative paper.
 
-### Step 5 - Put Holes in Your Journal Cover
+### Step 6 - Put Holes in Your Journal Cover
 ![sew your own paperback journal](/assets/diy-journal/paperback-stitching-holes.png)
 
 Grab one of your signatures and use it to make holes in your new journal cover. The holes should align exactly the same as your signatures so that you can sew your signatures and cover together.
 
-### Step 6 - Backstitching
+### Step 7 - Backstitching
 ![bookbinding stitches](/assets/diy-journal/diy-paperback-stitching.png)
 ![paperback bookbinding](/assets/diy-journal/paperbook-binding.png)
 
