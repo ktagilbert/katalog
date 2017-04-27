@@ -404,81 +404,89 @@
   }
 }
 
-// .take-action {
-//   margin: 10% 0;
-// }
-//
-// #inner-action {
-//   text-align: center;
-//   margin: auto;
-// }
-//
-// .take-action{
-//   .inner-action-header {
-//     width: 100%;
-//     padding: 5px;
-//     text-align: center;
-//     color: #fff;
-//     font-weight: 700;
-//     background-color: $orange;
-//   }
-// }
-// .take-action {
-//   #inner-action {
-//     .button {
-//       width: 50%;
-//       height: 100px;
-//       font-size: 1.2em;
-//       background-color: #fff;
-//       padding: 2% 0;
-//       color: $orange;
-//       float: left;
-//       margin: 0;
-//
-//       a {
-//         color: $orange;
-//       }
-//     }
-//     .button:nth-of-type(even) {
-//       float: right;
-//     }
-//     .button:nth-of-type(odd) {
-//       float: left;
-//     }
-//     .button:hover {
-//       border-top: none;
-//       background-color: #f1f1f1;
-//       z-index: -1;
-//
-//       a {
-//         padding: 20px;
-//         color: #000;
-//         z-index: 100;
-//       }
-//     }
-//   }
-// }
-//
-// .button-border {
-//   border: 1px solid $orange;
-//   height: 100px;
-//   width: 100%;
-//   padding: 0 4px;
-//   overflow: hidden;
-// }
-//
-// @media(max-width: 700px) {
-//   .take-action {
-//     #inner-action {
-//       .button-border {
-//         height: 250px !important;
-//       }
-//       .button:nth-of-type(odd) {
-//         border-bottom: 1px solid $orange;
-//       }
-//     }
-//   }
-// }
+//resources page
+
+.half-column-left {
+  width: 45%;
+  float: left;
+  padding: 2%;
+  text-align: center;
+  margin-bottom: 2%;
+
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: #666;
+    text-decoration: none;
+  }
+
+  .fa {
+    font-size: 4em;
+    color: skyblue;
+    padding: 5% 0;
+  }
+}
+
+.half-column-right {
+  width: 45%;
+  float: right;
+  padding: 2%;
+  margin-bottom: 2%;
+  text-align: center;
+  border-left: solid 1px #d3d3d3;
+
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: #666;
+    text-decoration: none;
+  }
+
+  .fa {
+    font-size: 4em;
+    color: skyblue;
+    padding: 5% 0;
+  }
+}
+
+//landing pages
+.landing-page-content {
+  width: 40%;
+  float: left;
+  padding: 2%;
+  font-size: 1.2em;
+
+  p:last-of-type {
+    margin-bottom: 50px;
+  }
+
+  h3 {
+    padding-bottom: 5%;
+  }
+}
+
+.landing-page-image {
+  width: 50%;
+  float: right;
+  padding: 2%;
+
+  img {
+    max-height: 600px;
+  }
+}
+
+.landing-page-button {
+  font-size: 1em;
+  font-weight: bold;
+  padding: 2%;
+  background-color: $blue;
+  color: #fff;
+  margin-top: 10%;
+}
 
 @media(max-width: 600px) {
   .take-action {

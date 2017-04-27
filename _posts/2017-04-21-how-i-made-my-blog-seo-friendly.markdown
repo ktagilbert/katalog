@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Made My Blog SEO Friendly
-date: 2017-04-19 04:04:09
+date: 2017-04-21 12:22:09
 image: "/6-seo-tips.png"
 comments: true
 description: >
@@ -12,7 +12,7 @@ excerpt: >
 ---
 ![DIY journal binding](/assets/6-seo-tips.png)
 
-I started my blog here in October 2016. It was time when I was working way too much, not getting enough sleep, and losing my creative drive. I *had* to change something.
+I started my blog here in October 2016. It was a time when I was working way too much, not getting enough sleep, and losing my creative drive. I *had* to change something.
 
 At first, I focused just on having a creative project to do after work. I started by creating a simple, pretty website. Soon, though, I had four pages, some social media links, and few pre-written posts.
 
