@@ -36,10 +36,6 @@ Plus, there isn't anything fancy about this project. You just garter stitch for 
 - Then, bind off and weave in all your ends.
 
 ### How to Make the Matching Hat
-
-![Handmade Gryffindor Scarf](/assets/hat-outside.jpg)
-
-
 I admit, I started on this hat about 3 times. The first pattern I choose was a bit over my head. The second didn't work with the weight of my yarn. , sofinally, I gave up and went with an old standby - [the 3am cable hat by SmarieK](http://www.ravelry.com/patterns/library/3am-cable-hat). I've made this hat about 4 times now and every time I love the result! I really should have just begun with it because it's always fun to work.
 
 For this hat, I used the instructions for US size 6 round needles. Then, I made a pom using the gold yarn and [this video](http://www.bing.com/videos/search?q=How+to+Make+a+Pom+Pom+Yarn+by+Hand&&view=detail&mid=357D10D070AB73929C15357D10D070AB73929C15&FORM=VRDGAR).

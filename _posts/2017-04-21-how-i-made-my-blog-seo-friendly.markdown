@@ -18,7 +18,7 @@ At first, I focused just on having a creative project to do after work. I starte
 
 It looked great to me so it was super tempting to launch my blog right away. Yet I had to hold myself back. I still had a few more technical things to think about.
 
-**You know the cliche, "showing up is half the battle"?** Okay, it's corny, but showing up is truly half the battle when it comes to your blog. By that I mean showing up on search engines. It's not enough to just have a blog. You want to make sure that ranks well when someone runs a search and that search engines aren't penalizing your site for some natural mistakes. For me, it took until December to get on top of those technical things.
+**You know the cliche, "showing up is half the battle"?** Okay, it's corny, but showing up is truly half the battle when it comes to your blog. By that I mean showing up on search engines. It's not enough to just have a blog. You want to make sure that it ranks well when someone runs a search and that search engines aren't penalizing your site for some natural mistakes. For me, it took until December to get on top of those technical things.
 
 # How to Start Making Your Blog SEO Friendly
 
@@ -72,7 +72,7 @@ In the words of Nike and Shia LaBoeouf, *Just Do It!* It's super simple and it w
 
 ![seo-basics-ebook](/assets/seo-basics-ebook.png)
 
-**Okay, now you have six actionable things you can do today to make your blog more searchable.** Now, it's time to buckle down and get SEO savvy. I'm excited for you to start. While you're working on your six steps to become more a more search friendly blog, I'm going to leave you with two things.
+**Okay, now you have six actionable things you can do today to make your blog more searchable.** Now, it's time to buckle down and get SEO savvy. I'm excited for you to start. While you're working on your six steps to become a more search friendly blog, I'm going to leave you with two things.
 
 The first is your content editorial calendar. The second is the first chapter of the *Blogger's Guide to SEO Basics* - an eBook I'll be launching next week. **This first chapter will cover some more in-depth SEO principles so that you can start making your blog the very best it can be.** It will help you prioritize your SEO efforts and will go over how search engines begin to rank sites. I hope you enjoy!
 

@@ -12,9 +12,8 @@ excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content mark
   <p>Template</p></a>
 </div>
 
-
 <div class="half-column-right">
-  <a href="/downloads/chapter-1-bloggers-guide-to-seo-basics.pdf"><i class="fa fa-book" aria-hidden="true"></i>
+  <a href="/bloggers-guide-to-seo-basics/"><i class="fa fa-book" aria-hidden="true"></i>
   <h4>The Blogger's Guide to SEO Basics</h4>
   <p>eBook</p></a>
 </div>
