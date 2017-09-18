@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June Books
+title: June Books Recap
 date: 2017-07-15 10:01:09
 image: "/many-storied-house.png"
 comments: true
