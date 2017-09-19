@@ -12,9 +12,9 @@ excerpt: >
 ---
 ![Powell's Shopping Spree](/assets/book-spree.png)
 
-Hey Everyone! I know it's been a while so since my last post. It's just been a few months of major change involving a big move and an exciting job change. I've also been hunkering down and doing a lot of writing outside of this blog (whoops). **Still, it's time to get back into the swing of blogging for sure!**
+Hey Everyone! I know it's been a while since my last post. It's just been a few months of major change involving a big move and an exciting job switch. I've also been hunkering down and doing a lot of writing outside of this blog (whoops). **Still, it's time to get back into the swing of blogging for sure!**
 
-Since I've last posted, I mentioned that I've been doing a lot of writing. Starting in June, I happened to pick up a few inspiring reads. I'm taking more and more time since my move to just sit with myself and enjoy books again. It's no surprise then that, after buying a few too many poetry collections, *I began to start work on my own collection of poetry.*
+Since I've last posted, I mentioned that I've been doing a lot of writing. Starting in June, I happened to pick up a few inspiring reads. I'm taking more and more time, since my move, to just sit with myself and enjoy books again. It's no surprise then that, after buying a few too many poetry collections, *I began to start work on my own collection of poetry.*
 
 June was definitely a big reading month for me. I only wish I had that much free-time now. I ended up getting hooked on a couple of great collections of poetry and then, at the end of the month, I went on a major book shopping spree at the Powell's near my house.
 
