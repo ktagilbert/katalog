@@ -1,13 +1,13 @@
 ---
 layout: post
-title: June Books Recap
+title: June Reading Recap
 date: 2017-07-15 10:01:09
 image: "/many-storied-house.png"
 comments: true
 description: >
- Check out the 9 SEO Myths to run from - assembled from Quora, LinkedIn, and personal discussions with other bloggers. It's time to take control of your own SEO as a blogger.
+ 'A Farewell to Arms,'' 'The Many Storied House,' 'What We Talk About When We Talk About Love,' '& Poems of the Night' - all are part of this month's Reading Recap. 
 excerpt: >
- I've worked at both a small-time SEO agency and have been a new blogger reading about all the "quick ways to succeed" in terms of rankings. From the experiences I have assembled a list of the top SEO myths bloggers may run across.
+ June was definitely a big reading month for me. I only wish I had that much free-time now. I ended up getting hooked on a couple of great collections of poetry and then, at the end of the month, I went on a major book shopping spree at the Powell's near my house.
 
 ---
 ![Powell's Shopping Spree](/assets/book-spree.png)
