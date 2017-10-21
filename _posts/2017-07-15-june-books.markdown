@@ -5,7 +5,7 @@ date: 2017-07-15 10:01:09
 image: "/many-storied-house.png"
 comments: true
 description: >
- 'A Farewell to Arms,'' 'The Many Storied House,' 'What We Talk About When We Talk About Love,' '& Poems of the Night' - all are part of this month's Reading Recap. 
+ 'A Farewell to Arms,'' 'The Many Storied House,' 'What We Talk About When We Talk About Love,' '& Poems of the Night' - all are part of this month's Reading Recap.
 excerpt: >
  June was definitely a big reading month for me. I only wish I had that much free-time now. I ended up getting hooked on a couple of great collections of poetry and then, at the end of the month, I went on a major book shopping spree at the Powell's near my house.
 
