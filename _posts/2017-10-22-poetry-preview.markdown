@@ -2,7 +2,7 @@
 layout: post
 title: Poetry Preview
 date: 2017-07-15 10:01:09
-image: "/KatieFinal-6"
+image: "/katalog/KatieFinal-6"
 comments: true
 description: >
  'A Farewell to Arms,'' 'The Many Storied House,' 'What We Talk About When We Talk About Love,' '& Poems of the Night' - all are part of this month's Reading Recap.
@@ -38,8 +38,6 @@ Taking these photos was a terrifying prospect. Thankfully, Ericka put me right a
 
 ![Portland, Oregon poet](/katalog/assets/headshots/KatieFinal-11.jpg)
 
-![Buck Off Magazine Poem](/katalog/assets/headshots/KatieFinal-15.jpg)
-
 ![Poetry Preview](/katalog/assets/headshots/KatieFinal-22.jpg)
 
 ![Katie Gilbert Content Marketing](/katalog/assets/headshots/KatieFinal-27.jpg)
@@ -68,12 +66,3 @@ I also have a little ditty that I wrote just for fun one morning. You can read b
 ##### No numbers or tables, only words printed
 ##### and my pen beneath each finished poem -
 ##### still dreaming.
-
-
-![Ericka Nicole Photography](/katalog/assets/headshots/KatieFinal-1.jpg)
-![Kenton, Portland, Oregon](/katalog/assets/headshots/KatieFinal-10.jpg)
-![Portland, Oregon poet](/katalog/assets/headshots/KatieFinal-11.jpg)
-![Buck Off Magazine Poem](/katalog/assets/headshots/KatieFinal-15.jpg)
-![Poetry Preview](/katalog/assets/headshots/KatieFinal-22.jpg)
-![Katie Gilbert Content Marketing](/katalog/assets/headshots/KatieFinal-27.jpg)
-![Katie Gilbert Poetry](/katalog/assets/headshots/KatieFinal-28.jpg)
