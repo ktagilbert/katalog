@@ -1,2 +1,2 @@
-#katalog - a blog
+#katalogspace - a blog
 # katalogspace
