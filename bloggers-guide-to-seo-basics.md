@@ -7,7 +7,7 @@ excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content mark
 
 
 <div class="landing-page-image">
-  <a href="/downloads/the-bloggers-guide-to-seo-basics.pdf"><img src="/assets/seo-basics-ebook.png"/>
+  <a href="/katalog/downloads/the-bloggers-guide-to-seo-basics.pdf"><img src="/katalog/assets/seo-basics-ebook.png"/>
   </a>
 </div>
 
@@ -30,5 +30,5 @@ excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content mark
   <b>Continue to grow your blog now with the free Blogger's Guide to SEO Basics.</b>
 </p>
 
-<a class="landing-page-button" href="/downloads/the-bloggers-guide-to-seo-basics.pdf">Download the eBook</a>
+<a class="landing-page-button" href="/katalog/downloads/the-bloggers-guide-to-seo-basics.pdf">Download the eBook</a>
 </div>

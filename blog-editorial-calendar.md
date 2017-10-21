@@ -7,7 +7,7 @@ excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content mark
 
 
 <div class="landing-page-image">
-  <a href="/downloads/blog-editorial-calendar.xlsx"><img src="/assets/blog-editorial-calendar.png"/>
+  <a href="/katalog/downloads/blog-editorial-calendar.xlsx"><img src="/katalog/assets/blog-editorial-calendar.png"/>
   </a>
 </div>
 
@@ -18,5 +18,5 @@ excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content mark
 <p>
 Download your blog editorial calendar today to start creating a solid content strategy. You'll have 12 months of templates to work with so you can as far as head in your planning as you'd like.
 </p>
-<a class="landing-page-button" href="/downloads/blog-editorial-calendar.xlsx">Get Your Editorial Calendar Today</a>
+<a class="landing-page-button" href="/katalog/downloads/blog-editorial-calendar.xlsx">Get Your Editorial Calendar Today</a>
 </div>
