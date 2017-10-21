@@ -9,7 +9,7 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
 <div id="portfolio-list">
   <div class="work-sample">
     <a href="http://bishopsgate.com/architectural-gems-in-east-haddam/" alt="blog sample">
-      <img src="/assets/work-samples/arch-gems-pic.jpg">
+      <img src="/katalog/assets/work-samples/arch-gems-pic.jpg">
     </a>
   </div>
   <div class="work-sample-text">
@@ -24,7 +24,7 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
 
     <div class="work-sample">
       <a href="http://santasranch.net/">
-        <img src="/assets/work-samples/santas-ranch.jpg" alt="website copy sample">
+        <img src="/katalog/assets/work-samples/santas-ranch.jpg" alt="website copy sample">
       </a>
     </div>
     <div class="work-sample-text">
@@ -39,7 +39,7 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
 
     <div class="work-sample">
       <a href="http://vmphq.com/blog/local-seo-definition.php">
-        <img src="/assets/work-samples/local-seo.jpg" alt="blog article work sample">
+        <img src="/katalog/assets/work-samples/local-seo.jpg" alt="blog article work sample">
       </a>
     </div>
     <div class="work-sample-text">
@@ -60,7 +60,7 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
 
     <div class="work-sample">
       <a href="http://ileneking.com/blue-fall-accessorize-years-biggest-autumn-color/">
-        <img src="/assets/work-samples/fall-color.jpg" alt="copywriter work sample">
+        <img src="/katalog/assets/work-samples/fall-color.jpg" alt="copywriter work sample">
       </a>
     </div>
     <div class="work-sample-text">
@@ -78,7 +78,7 @@ excerpt: I'm a copywriter for hire in Beaverton, OR. See some samples of my work
 
     <div class="work-sample">
       <a href="http://cdn2.hubspot.net/hub/433510/file-2435179109-pdf/LTC_Book_Final.pdf?__hssc=44263035.5.1483210028429&__hstc=44263035.973bb334d22f26c38b163762e803d4c5.1483210028426.1483210028426.1483210028426.1&__hsfp=871961122&hsCtaTracking=a10c08df-07d2-4c9e-a8f1-db2d93ee01b7%7Ca730fa59-efee-442c-8edd-d99a9ee49381">
-        <img src="/assets/work-samples/long-term-care.jpg" alt="eBook work sample">
+        <img src="/katalog/assets/work-samples/long-term-care.jpg" alt="eBook work sample">
       </a>
     </div>
     <div class="work-sample-text">
