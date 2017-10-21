@@ -12,7 +12,7 @@ excerpt: >
 
 ---
 
-![Content Writing Goals](/assets/creative-writing.jpg)
+![Content Writing Goals](/katalog/assets/creative-writing.jpg)
 
 What are your goals for 2017? Try asking yourself that question. Maybe get out a piece of paper and write down 3-10 goals while you're at it. I'll start.
 

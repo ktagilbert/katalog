@@ -11,7 +11,7 @@ excerpt: >
 
 ---
 
-![My DIY Bedroom](/assets/morning-happiness.jpeg)
+![My DIY Bedroom](/katalog/assets/morning-happiness.jpeg)
 
 At the beginning of the year, I made [a post about how to complete your New Year goals](/2017/01/15/the-year-you-complete-your-goals.html). I filled it with writing goals, business hopes, and some financial achievements I'm shooting for. I left one thing out though. **I had forgotten that my one New Year's resolution for 2017 is to be happy.**
 

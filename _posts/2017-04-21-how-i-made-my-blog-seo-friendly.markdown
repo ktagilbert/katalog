@@ -10,7 +10,7 @@ excerpt: >
  You know the cliche, "showing up is half the battle"? Okay, it's corny, but showing up is truly the half the battle when it comes to your blog. By that I mean showing up on search engines.
 
 ---
-![DIY journal binding](/assets/6-seo-tips.png)
+![DIY journal binding](/katalog/assets/6-seo-tips.png)
 
 I started my blog here in October 2016. It was a time when I was working way too much, not getting enough sleep, and losing my creative drive. I *had* to change something.
 
@@ -36,7 +36,7 @@ For this blog, I use a Google sheet to help me both plan out my topics and to pr
 
 **You can do the same with this [free blog editorial calendar sheet](/downloads/blog-editorial-calendar.xlsx).** Plus, once you have one to three months worth of content planned out, you can start pre-writing your posts so that you can take a worry-free vacation down the road!
 
-![beginner-seo-advice](/assets/beginner-seo-advice.png)
+![beginner-seo-advice](/katalog/assets/beginner-seo-advice.png)
 
 #### Focus on Your Content
 
@@ -70,7 +70,7 @@ For my site, I created the mobile design first. Again, many Wordpress themes mak
 #### Install Google Analytics
 In the words of Nike and Shia LaBoeouf, *Just Do It!* It's super simple and it will help you see who is coming to your site, what is working on your site, and how you are acquiring new traffic. If you want to grow your site or blog, Google Analytics will be your best friend to help you create a strategy to do so.
 
-![seo-basics-ebook](/assets/seo-basics-ebook.png)
+![seo-basics-ebook](/katalog/assets/seo-basics-ebook.png)
 
 **Okay, now you have six actionable things you can do today to make your blog more searchable.** Now, it's time to buckle down and get SEO savvy. I'm excited for you to start. While you're working on your six steps to become a more search friendly blog, I'm going to leave you with two things.
 

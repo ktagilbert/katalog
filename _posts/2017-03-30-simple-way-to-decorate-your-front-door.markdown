@@ -10,7 +10,7 @@ excerpt: >
  A couple of weeks ago I got my DIY fix in by creating a wreathe for my front door. I have a red door, so as much as I wanted a wreathe filled with light pink or blue flowers, I decided to go for some colors that complemented the bold color I already have.
 
 ---
-![how to make a DIY wreathe](/assets/home-wreathe.png)
+![how to make a DIY wreathe](/katalog/assets/home-wreathe.png)
 
 Normally, I am fine just eating out every night and coming home to a book or new episode on Hulu of 'This is Us.' Now though, [with my new intentions](http://katalogspace.com/2017/03/28/the-year-i-want-to-be-happy.html), DIYs are taking over my nights (and my bank account). It's a kick I picked up in high school/college and it feels good to get back to it again honestly.
 

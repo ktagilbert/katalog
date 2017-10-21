@@ -10,7 +10,7 @@ excerpt: >
  June was definitely a big reading month for me. I only wish I had that much free-time now. I ended up getting hooked on a couple of great collections of poetry and then, at the end of the month, I went on a major book shopping spree at the Powell's near my house.
 
 ---
-![Powell's Shopping Spree](/assets/book-spree.png)
+![Powell's Shopping Spree](/katalog/assets/book-spree.png)
 
 Hey Everyone! I know it's been a while since my last post. It's just been a few months of major change involving a big move and an exciting job switch. I've also been hunkering down and doing a lot of writing outside of this blog (whoops). **Still, it's time to get back into the swing of blogging for sure!**
 
@@ -22,7 +22,7 @@ Yup, I spent way more than I should have. Still, I walked away with a couple of 
 
 ### 'The Many Storied House' by George Ella Lyon
 
-![The Many Storied House](/assets/many-storied-house.png)
+![The Many Storied House](/katalog/assets/many-storied-house.png)
 
 Lyon's collection starts with the picture of a mid-century, two-story, house. It's "reddish brown and white. You can't miss it." Similarly, if you're a fan of poetry, you can't miss out on this collection.
 
@@ -40,7 +40,7 @@ Some poems are as short three lines - describing just a moment that helps define
 
 ### 'What We Talk About When We Talk About Love' by Raymond Carver
 
-![What We Talk About When We Talk About Love](/assets/raymond-carver.png)
+![What We Talk About When We Talk About Love](/katalog/assets/raymond-carver.png)
 
 I picked up my copy of 'What We Talk About When We Talk About Love' a little over two years ago at Powell's Books. I had heard it was some of the best short stories you can read. *Plus, I'm a sucker for love.* A friend once even told me "Katie, you love love," and you know what, they were right.
 
@@ -58,7 +58,7 @@ He definitely never tells you the moral. Instead, he leaves you to draw the mean
 
 ### A Farewell to Arms by Ernest Hemingway
 
-![A Farewell to Arms](/assets/farewell-to-arms.png)
+![A Farewell to Arms](/katalog/assets/farewell-to-arms.png)
 
 So, I don't usually get into fiction. Before you get mad at me, let me explain. I tend to read to gain understanding about the world and people around me. So, I just end up reading more poetry and non-fiction.
 
@@ -79,7 +79,7 @@ You'll notice that all of his relationships are similarly contrived and he is no
 
 ### Poems of the Night by Jorge Luis Borges
 
-![Poems of the Night](/assets/poems-of-the-night.png)
+![Poems of the Night](/katalog/assets/poems-of-the-night.png)
 
 Want to feel like you're living in a dream world? A kind of dark, only sometimes romantic, dream? I swear, reading this collection was just like that.
 

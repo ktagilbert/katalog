@@ -9,7 +9,7 @@ excerpt:
  "I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project. I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make."
 ---
 
-![knitted woodland dreams headband](/assets/Woodland-Dreams-Headband.jpg)
+![knitted woodland dreams headband](/katalog/assets/Woodland-Dreams-Headband.jpg)
 
 I decided to improve as a knitter about two weeks ago. But I didn't want to just dive in. So I scoured Pinterest for an easy project. I couldn't really find the perfect thing but I did stumble on a bunch of headbands that looked like fun to make.
 
@@ -19,7 +19,7 @@ My goal was just to create a near-perfect headband that I could wear in the fall
 
 Eventually, I had to move to another room where I could concentrate on what I was doing. I started the project over about three times that first day. But oh well. Once I actually got started, the project went by pretty fast.
 
-![finishing a knit project](/assets/headband1.jpg)
+![finishing a knit project](/katalog/assets/headband1.jpg)
 
 I completed the headband over about three days. I knitted half of it the first day and then had to stop early because my fingers weren't used to the repetitive movements. I finished the rest of the length the next weekend. Then, I finally grabbed the project back up this morning to sew in the buttons and weave in the ends. Now, I I have to say **I love** the finished product!
 
@@ -29,7 +29,7 @@ I'm definitely excited that this project is complete because it really is one of
 
 ### How to Make the Headband
 
-![Amazing Knitting Kit](/assets/knitting-tools.jpg)
+![Amazing Knitting Kit](/katalog/assets/knitting-tools.jpg)
 
 I'm going to call this one the Woodland Dreams Headband because the wood buttons and deep pink color make it look like something I would dream of wearing while out camping in the woods. So, without further ado, this how you can make your own Woodland Dreams Headband.
 

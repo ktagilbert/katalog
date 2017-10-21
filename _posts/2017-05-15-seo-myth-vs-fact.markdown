@@ -10,7 +10,7 @@ excerpt: >
  I've worked at both a small-time SEO agency and have been a new blogger reading about all the "quick ways to succeed" in terms of rankings. From the experiences I have assembled a list of the top SEO myths bloggers may run across.
 
 ---
-![DIY journal binding](/assets/seo-myths-busted.png)
+![DIY journal binding](/katalog/assets/seo-myths-busted.png)
 
 A couple of weeks ago, I shared some ways [to easily make your blog SEO friendly](http://katalogspace.com/2017/04/21/how-i-made-my-blog-seo-friendly.html) with you. There, I admitted that SEO came last for my blog here and I'm realizing more and more everyday how much of a mistake that was.
 
@@ -30,7 +30,7 @@ If you are adding looking to make some changes, definitely try and make them inf
 
 If you can make design tweaks that help your readers stay on your site longer or make finding your posts easier, then go for it! Otherwise, **if you're looking to tell Google that you're adding regular new content, consider making your posts that source of new content.** That way you're giving both search engines something and your readers something. Plus, your posts are by far the best way you can add value to your blog!
 
-![valuable content for SEO](/assets/seo-myth1.png)
+![valuable content for SEO](/katalog/assets/seo-myth1.png)
 
 ### Myth 2: I should buy inbound links
 Apparently people out there are suggesting that inbound links are typically bought. If you're a new blogger, and you run across advice to buy links that go back to your site, please walk away from that source. *Here is why:* you don't want spammy sites linking back to you.
@@ -57,7 +57,7 @@ So even though social media marketing requires putting yourself out there, it ca
 
 **Social media marketing can help send what are called social signals to search engines.** These signals say *"hey, people like this site! It must be relevant and reputable. Let's rank it higher."* It's also an excellent acquisition tool. It can help you bring in that traffic, find your audience, and hook them into visiting your site.
 
-![digital marketing efforts for bloggers](/assets/seo-myth2.png)
+![digital marketing efforts for bloggers](/katalog/assets/seo-myth2.png)
 
 ### Myth 6: The No. 1 Ranking on Google can be guaranteed.
 If someone says this, run! This is the number one sign of a scammy SEO agency.

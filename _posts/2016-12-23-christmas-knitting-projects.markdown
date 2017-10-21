@@ -8,7 +8,7 @@ alias: https://ktagilbert.github.io/katalog//2016/11/24/christmas-knitting-proje
 excerpt:
  "I've been picturing Molly Weasley's knit sweaters all month long. Probably because a co-worker just asked me to knit his fiance a Gryffindor themed scarf and hat."
 ---
-![Gryffindor Hat Pattern](/assets/A-Classic-Project.jpg)
+![Gryffindor Hat Pattern](/katalog/assets/A-Classic-Project.jpg)
 I've been picturing Molly Weasley's knit sweaters all month long. Probably because a co-worker just asked me to knit his fiance a Gryffindor themed scarf and hat. Now if you know me, you know I'm a sucker for romance. So I was more than happy to help him surprise his girl with something she wouldn't be able to find anywhere else (I say so humbly!)
 
 I started by picking out some medium weight Wool-Ease yarn from Lion Brand in gold and maroon. My goal was to pick two colors that weren't obnoxious on their own or together. Then, I began with the scarf.
@@ -18,7 +18,7 @@ The beauty of the Gryffindor themed scarf was that it reminded me of when I firs
 
 ### How I Made the Gryffindor Scarf
 
-![Handmade Gryffindor Scarf](/assets/harry-potter-scarf.jpg)
+![Handmade Gryffindor Scarf](/katalog/assets/harry-potter-scarf.jpg)
 
 This scarf would make a great present for any Harry Potter nerd! All you need to do is switch out the colors to match their favorite house.
 

@@ -9,7 +9,7 @@ excerpt:
  "Question. Where do you guys draw the line between laziness v. working. I find that I'm either working or doing chores and if I'm not doing that, I'm sitting on my butt watching T.V. or browsing through Instagram."
 ---
 
-![finding time to be creative](/assets/creative-quote.jpg)
+![finding time to be creative](/katalog/assets/creative-quote.jpg)
 
 Question. Where do you guys draw the line between laziness v. working. I find that I'm either working or doing chores and if I'm not doing that, I'm sitting on my butt watching T.V. or browsing through Instagram.
 

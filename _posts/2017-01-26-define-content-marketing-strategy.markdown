@@ -12,7 +12,7 @@ excerpt: >
 
 ---
 
-![Content Marketing Strategy](/assets/new-content.jpg)
+![Content Marketing Strategy](/katalog/assets/new-content.jpg)
 
 Getting the right message down in words can be frustrating. Especially when there are so many different priorities you have to attend to. The boss needs to get a fresh sales report on his desk, your awesome co-workers are talking about their weekends in the background, and you've been tasked with figuring out how many people are actually visiting your website on a consistent basis. That can be enough to make even the most centered person feel overwhelmed. Trust me, I've been there.
 

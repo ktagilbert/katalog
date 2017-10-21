@@ -10,7 +10,7 @@ excerpt: >
  If you follow me on Instagram, you may have already seen that I was able to finish the jasmine scarf pattern. Which, was probably the most intimidating project I've taken on since becoming a knitter.
 
 ---
-![DIY journal binding](/assets/jasmine-scarf.png)
+![DIY journal binding](/katalog/assets/jasmine-scarf.png)
 
 Remember way back [when I declared my knitting goals](http://katalogspace.com/2016/10/01/project-year-of-knitting.html)? Well, it's May and I've done next to nothing still! Good thing I still have seven months to finish these projects, right? I guess I'll be a summer knitter this year (weird).
 
@@ -18,7 +18,7 @@ If you [follow me on Instagram](https://www.instagram.com/katalogspace/), you ma
 
 ### How I Made the Jasmine Scarf
 
-![Completed Jasmine Scarf](/assets/complete-jasmine-scarf.png)
+![Completed Jasmine Scarf](/katalog/assets/complete-jasmine-scarf.png)
 
 - To start with, I found the English version of the [scarf pattern over on Purl Soho](https://www.purlsoho.com/create/2015/03/25/jasmine-scarf/).
 
