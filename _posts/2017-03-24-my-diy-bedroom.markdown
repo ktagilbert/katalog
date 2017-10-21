@@ -4,7 +4,6 @@ title: My DIY Bedroom - Easing My Mind with Home Projects
 date: 2017-03-24 11:12:09
 image: "home-painting.jpg"
 comments: true
-alias: https://ktagilbert.github.io/katalog//2017/03/24/my-diy-bedroom.html
 description: >
  I took on a few projects around the house last week. Doing something with my hands always seems to help distract my mind.
 excerpt: >

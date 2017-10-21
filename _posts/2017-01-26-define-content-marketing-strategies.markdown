@@ -4,7 +4,6 @@ title: How to Define a Content Marketing Strategy Part 2
 date: 2017-01-29 08:11:21
 image: "content-strategy2.jpg"
 comments: true
-alias: https://ktagilbert.github.io/katalog//2017/01/26/define-content-marketing-strategy.html
 description: >
  In part 2 of this blog series on content strategy, I'm going to focus on just the first part of the content strategy equation - what "the right kind of content" is.
 excerpt: >

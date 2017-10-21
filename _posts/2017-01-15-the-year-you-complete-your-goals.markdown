@@ -4,7 +4,6 @@ title: 2017 - The Year You Complete Your Goals
 date: 2017-01-15 11:32:21
 image: "creative-writing.jpg"
 comments: true
-alias: https://ktagilbert.github.io/katalog//2017/01/15/the-year-you-complete-your-goals.html
 description: >
  With the new year comes new goals. These could be goals for your business, personal life, or health. Either way, read on to find ways to help you outline and start working toward achieving your 2017 resolutions.
 excerpt: >
