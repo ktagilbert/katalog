@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'jekyll', '3.2.0'
+gem 'jekyll', '3.6.0'
 gem 'rake'
 gem 'foreman'
 gem 'thin'
@@ -8,7 +8,8 @@ gem 'rack-contrib'
 gem 'jekyll-assets'
 gem 'jekyll-paginate'
 gem 'font-awesome-sass'
-gem "github-pages", group: :jekyll_plugins
+gem 'github-pages'
+gem 'nokogiri', '1.8.1'
 
 group :jekyll_plugins do
   gem 'octopress-paginate'
