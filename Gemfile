@@ -8,7 +8,7 @@ gem 'rack-contrib'
 gem 'jekyll-assets'
 gem 'jekyll-paginate'
 gem 'font-awesome-sass'
-gem 'octopress-paginate'
+gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem 'octopress-paginate'

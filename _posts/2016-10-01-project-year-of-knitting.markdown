@@ -9,7 +9,7 @@ excerpt:
  "Do you have a latent hobby? That something you love to do but just don't get around to often? Yeah, I think we all do. It could be sewing, DIYing, painting, or even reading. My latent hobby happens to be knitting."
 ---
 
-![gaining knitting inspiration](/assets/knitting-inspiration.jpg)
+![gaining knitting inspiration](/katalog/assets/knitting-inspiration.jpg)
 
 Do you have a latent hobby? That something you ***love*** to do but just don't get around to often? Yeah, I think we all do. It could be sewing, DIYing, painting, or even reading. My latent hobby happens to be knitting.
 
@@ -36,11 +36,11 @@ Now, I want to spend some time learning how to complete different projects. Hats
 
 Here are some of the projects I'm excited to try out.
 
-| ![knitted chevron-cowl](/assets/chevron-scarf.jpg) | ![knitted rug](/assets/floor-mat.jpg) |
+| ![knitted chevron-cowl](/katalog/assets/chevron-scarf.jpg) | ![knitted rug](/katalog/assets/floor-mat.jpg) |
 
-| ![beautiful scarf pattern](/assets/jasmine-scarf.jpg) | ![knitted baby blanket](/assets/knit-blanket2.jpg) |
+| ![beautiful scarf pattern](/katalog/assets/jasmine-scarf.jpg) | ![knitted baby blanket](/katalog/assets/knit-blanket2.jpg) |
 
-| ![handmade slippers](/assets/slippers.jpg) | ![hand-knit shrug](/assets/knit-shrug.jpg) |
+| ![handmade slippers](/katalog/assets/slippers.jpg) | ![hand-knit shrug](/katalog/assets/knit-shrug.jpg) |
 
 ### What I'll Need to Complete These Projects
 
