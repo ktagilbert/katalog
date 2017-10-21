@@ -8,7 +8,7 @@ excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content mark
 
 <div class="about-box">
   <div class="about-image">
-    <img src="/assets/writer.jpg">
+    <img src="/katalog/assets/gilbert-buck-off-headshot.jpg">
   </div>
 </div>
 
