@@ -2,12 +2,12 @@
 layout: post
 title: Poetry Preview
 date: 2017-07-15 10:01:09
-image: "/katalog/KatieFinal-6"
+image: "/KatieFinal-6.jpg"
 comments: true
 description: >
- 'A Farewell to Arms,'' 'The Many Storied House,' 'What We Talk About When We Talk About Love,' '& Poems of the Night' - all are part of this month's Reading Recap.
+ I have some exciting news to *finally* share with you today. You know how in my last post I let you know that I began work on my own collection of poetry? Well, I really got to work and started writing just a bunch of poems.
 excerpt: >
- June was definitely a big reading month for me. I only wish I had that much free-time now. I ended up getting hooked on a couple of great collections of poetry and then, at the end of the month, I went on a major book shopping spree at the Powell's near my house.
+ I have some exciting news to *finally* share with you today. You know how in my last post I let you know that I began work on my own collection of poetry? Well, I really got to work and started writing just a bunch of poems.
 
 ---
 ![Local Portland Poetry](/katalog/assets/headshots/KatieFinal-6.jpg)
