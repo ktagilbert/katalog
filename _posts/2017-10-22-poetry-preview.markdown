@@ -2,7 +2,7 @@
 layout: post
 title: Poetry Preview
 date: 2017-07-15 10:01:09
-image: "/KatieFinal-6.jpg"
+image: "KatieFinal-6.jpg"
 comments: true
 description: >
  I have some exciting news to *finally* share with you today. You know how in my last post I let you know that I began work on my own collection of poetry? Well, I really got to work and started writing just a bunch of poems.
