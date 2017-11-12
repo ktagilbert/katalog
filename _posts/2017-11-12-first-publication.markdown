@@ -20,7 +20,7 @@ I spent my weekend doing some of my favorite things. Starting with [Wordstock](h
 
 I woke up early, grabbed coffee and breakfast on the road, and miraculously found free parking in Downtown Portland. Showing up early definitely helped because, unlike other years at this event, I avoided almost all the lines.
 
-First, I heard [John Freeman](https://www.poetryfoundation.org/poets/john-freeman), [Erika L. Sanchez](https://erikalsanchez.com/), [Javier Zamora](https://www.poetryfoundation.org/poets/javier-zamora), and [Mathew Zapruda](https://www.poetryfoundation.org/poets/matthew-zapruder), give a talk about 'Border Crossing. Poetry and Place.' All four were eloquent and read some beautiful writing. **Yet, what I loved most were their discussions on form in poetry.** Javier, especially, gave some great advice. He said that the form has to be honest. It has to be what your poem calls for.
+First, I heard [John Freeman](https://www.poetryfoundation.org/poets/john-freeman), [Erika L. Sanchez](https://erikalsanchez.com/), [Javier Zamora](https://www.poetryfoundation.org/poets/javier-zamora), and [Mathew Zapruda](https://www.poetryfoundation.org/poets/matthew-zapruder) give a talk that was titled,'Border Crossing. Poetry and Place.' All four were eloquent and read some beautiful writing. **Yet, what I loved most were their discussions on form in poetry.** Javier, especially, gave some great advice. He said that the form has to be honest. It has to be what your poem calls for.
 
 The second poetry talk that day mentioned form as well. One of the women remarked that form gives her a template to work within. It helps her structure her thoughts. Another mentioned that form also helps her turn down the volume on her extreme feelings when writing.
 
