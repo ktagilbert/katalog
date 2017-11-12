@@ -31,6 +31,18 @@ Did I ever tell you guys that I used to hate poetry? Yup, I was that kid dreadin
 
 Well, I signed up to travel abroad to Ireland. More than anything, I wanted a big experience to help shake me up when I had signed up for the program. I kinda got my wish because a component of the experience was to read and write poetry. So, we read William Butler Yeats, Seamus Heaney, Oscar Wilde, James Joyce, Samuel Beckett, and we had Tony Curtis as our guest professor in Ireland. He also came out to Washington for one class to talk about his book 'Folk'
 
-Folk became the first collection of poetry I read. I remember being amazed that I loved it. Back then, I just loved the way his poems sounded. I read them all outloud once and then again to get the rhythm and cadence down. They came out lyrical and momentous this way.
+Folk became the first collection of poetry I read. I remember being amazed that I loved it. Back then, I just loved the way his poems sounded. I read them all out loud once and then again to get the rhythm and cadence down. They came out lyrical and momentous this way.
 
-I recently read the collection again and went crazy over it.   
+I recently read the collection again and went crazy over it.  
+
+### The Many Storied House
+
+Read about it here! The Many Storied House throws down as my favorite poetry collection of all time. She tells a story through each of her poems and it makes for a beautiful, almost memoirist-ic, collection. I still remember that I read it when I had just moved into my new place at a coffee shop in my old neighborhood because I didn't know where else to go yet. I put on a nostalgic playlist, opened up the cover of Lyon's poems, and stayed at the coffee shop for hours. That was when I decided to write my own collection by the way. It's cliche but I was inspired.
+
+### Cat's Cradle
+
+Ready for pure craziness? Pick up Cat's Cradle and dive into the post-modern world of ice-nine, the Hoenniker family, and Bokononism.
+
+### Norwegian Wood
+
+### Lit
