@@ -3,6 +3,7 @@ layout: post
 title: Exciting Poetry News
 date: 2017-10-21 10:01:09
 image: "headshots/KatieFinal-6.jpg"
+published: false
 comments: true
 description: >
  I have some exciting news to *finally* share with you today. You know how in my last post I let you know that I began work on my own collection of poetry? Well, I really got to work and started writing just a bunch of poems.
