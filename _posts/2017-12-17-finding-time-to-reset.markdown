@@ -68,6 +68,8 @@ Without a doubt, this experience stands out in my mind as the best part of the t
 
 ### The Strand
 
+![First time to The Strand](/katalog/assets/the-strand-winter.png)
+
 That being said, The Strand was also a memorable experience. Again, I hoofed it here. A total of 30 blocks brought me from Bryant Park over to Greenwich Village.
 
 Here, the vibes were way more relaxed. Plus, just blocks from Union Square, I found the bookstore I had been dreaming of visiting ever since reading [the article in the New York Times about the quiz employees have to take](https://www.nytimes.com/2016/07/17/nyregion/want-to-work-in-18-miles-of-books-first-the-quiz.html) to be hired there. What a process!
