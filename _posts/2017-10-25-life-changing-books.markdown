@@ -13,15 +13,14 @@ excerpt: >
 ---
 ![Local Portland Poetry](/katalog/assets/headshots/KatieFinal-6.jpg)
 
-My new roommate knows that what I want to be a teacher and we got to talking about it yesterday. Somehow, books came up and we asked me if there were any books, as an English major, that really affected me. The answer was, yes! Holy shit, yes. Every quarter I found myself open-mouthed over the pages of some novel or other that my teacher had assigned to our class.
+My new roommate knows that what I want to be a teacher and we got to talking about it yesterday. Somehow, books came up and we asked me if there were any books, as an English major, that really affected me. The answer was, yes! Holy shit, yes.
 
-### The Dissapeared Chicano book
+Every quarter I found myself open-mouthed over the pages of some novel or other that my teacher had assigned to our class.
 
 ### Lolita
 
 I read Lolita in my post-modern literature course my second year of undergrad. I wasn't enamored with the general plot of Nabakov's novel. I *was* over the mooon about his storytelling though!! So, yeah, it's about child pornography but not really. It is also a post-modern novel with an unreliable narrator who has an alter ego. He is writing from his jail cell and during his storytelling, he leaves little clues about his insanity and obsessions. It makes for an amazing read once you have a professor to point out all the tiny details. Nabakov then ends up challenging his readers to question their reading process, to look up his clues, to ask questions about his narrator, etc.
 
-### Pride & Prejudice
 
 ### Stone Butch Blues
 Leslie Feinberg is a damn brave soul. I'm kind of in love with her. Stone Butch Blues is her memoir and a wonderful coming of age story for anyone who feels like they can't be themselves - especially the LGBTQ. I read her memoir as a bi-sexual girl moving to Texas. I was feeling totally out of place in my new environment. More than that, I was feeling like I couldn't be myself. My sexuality wasn't out in the open among the people close to me back then. So, I kept it quiet all while reading about Leslie learning to come out, find love, and come into her own. What a wonderfully brave memoir. I only wish I had heeded her message to be yourself the first time I had read it.
@@ -45,5 +44,13 @@ Read about it here! The Many Storied House throws down as my favorite poetry col
 Ready for pure craziness? Pick up Cat's Cradle and dive into the post-modern world of ice-nine, the Hoenniker family, and Bokononism.
 
 ### Norwegian Wood
+Marukami's Norwegian Wood helped me get through a really tough time one summer. I had been fired from my first job, my worst fear come true at the time, and I literally could not cope. Everyone around me had suggestions for how to handle the situation. Get out an network, change careers, go back to school, just get a barista job (as if that is so easy), etc. The influx of advice left me paralyzed one day. I literally just sat on a couch and couldn't move except to turn the pages of Norwegian Wood. 
+
+Admitedly, the novel is pretty said. Toru is a college student figuring out his place in the world. He encounters some pretty exotic characters while getting over the death of one of friends and falling into a great love. Yet, his story is filled with poignant moments of self discovery as well as some heart-swelling scenes filled with empathy that he learns to have for those around him.
+
+If you want to learn how to be a more open person, or are a bit lost yourself, I definitely recommend picking this one up!
+
 
 ### Lit
+
+What can I even say here?
