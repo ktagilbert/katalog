@@ -7,7 +7,7 @@ comments: true
 description: >
  Finding time to reset during the holidays. A trip to New York City definitely helped me relax and enjoy the holiday season. Read on to see pictures from my trip.  
 excerpt: >
-The whole month of December has seemed like one long, bad day at work Awful, right? I had been so focused on work, bills, and the routines that keep my life in place that I had been forgetting to take a step back and enjoy myself.
+ The whole month of December has seemed like one long, bad day at work Awful, right? I had been so focused on work, bills, and the routines that keep my life in place that I had been forgetting to take a step back and enjoy myself.
 
 ---
 ![Getting Away in New York City](/katalog/assets/bryant-park-afternoon.png)
