@@ -50,13 +50,38 @@ What stands out is that sets out to accomplish three main things. She wants to c
 I think what I love most about "Lit" is Karr's brutal honesty. She depicts herself as objectively as a human being can without completely destroying their own sense of self worth. I can't even imagine how painful some of her stories were to recount. Yet, she gets them all down on the page in a way that tears at your heart strings.
 
 
-
 ### 'Splitting an Order' by Ted Kooser
 
 ### 'The Yellow Lighted Bookshop' by Lewis Buzbee
 ![The Yellow Lighted Bookshop Blog Review](/katalog/assets/yellow-lighted-bookshop.png)
 
+Reading Lewis Buzbee's memoir was like meeting up with a new friend and realizing they share one of the same passions as you. Buzbee *loves* books and bookstores. He will go on his honeymoon and spend it looking for a certain shop that is sure to have a surprising paperback in store for him. He loves that bookstores are like living breathing cities. He loves the origin of the book and it's lifecycle from the publisher to the shelf and back.
+
+I mean geeze, just read this quote:
+
+>"Books, I knew then and now, give body to our ideas and imaginations, make them flesh in the world; a bookstore is the city where our fleshed-out inner selves reside."
+
+My favorite part in Buzbee's novel is when he describes the excitement book lovers feel when they walk into a bookstore. It feels just like everytime I walk into a Powell's location, Elliot Bay Bookstore, or when I was traveling with mom in London and could wander to any cute little bookstore we found along our way.
+
+You feel as if there is infinite possibilities. You could find a non-fiction that is so relatable it changes your though processes (I've so been there!). Better yet, you could find a poetry collection that inspires you to take more time to enjoy your surroundings or the people you love. I've even found seemingly random books that have opened me up to whole new areas of interest. A [novel about Radiohead](https://www.sheetmusicplus.com/title/exit-music-sheet-music/19581827?kw=&utm_medium=cpc&adpos=1o4&gclid=Cj0KCQiAyZLSBRDpARIsAH66VQLmHrmjlT2AG8UsXHpoP-4O3TNRGhde9SEtkFFzR1kukrAZ-4OM0cgaAorYEALw_wcB&d=sem_sidecar&d=sem_sidecar&popup=false&popup=false&utm_source=google&mkwid=s|pcrid|86117963782&ac=1&country_code=USA&sc_intid=19581827&scid=scplp19581827) was one such find.
+
+Being in a bookstore is my favorite way to spend a weekend morning. Buzbee nails the feeling on the head when he explains that the feeling is like being both alone but connected to others - other reads (and other writers if you ask me).
+
+I know you guys are readers, so if you want to spend hours connecting with a friend who shares your passion, definitely check out the Yellow Lighted Bookshop.
+
+
 ### 'Ariel' by Sylvia Plath
 ![Ariel, Poems by Sylvia Plath](/katalog/assets/sylvia-plath-ariel.png)
+
+I read 'The Bell Jar' by Sylvia Plath back in August. From there, I was hooked! I went to the Powell's on Cedar Hills here and grabbed two different collections of poetry by Plath as well.
+
+I read 'Ariel' first in September. I re-read it this month, giving me the chance to revisit her superb use of repetition, dark imagery, beautiful vocabulary, and radical enjambment.
+
+Her collection is not just a bound book. It is her own heart laid out, stitched into signatures, and bound into a paperback. She writes about the struggle involved in living.
+
+If you've ever experienced depression or dark thoughts, you will relate and leave this collection in awe of her ability to succinctly describe her feelings and in such a gorgeous way. I know I was in awe at least. 
+
+***My favorite poems in the collection: Lady Lazarus, Elm, Lesbos, Medusa, a Birthday Present, The Munich Mannequins, Contusion***
+
 
 ### November, 2017 Issue of 'Poetry'
