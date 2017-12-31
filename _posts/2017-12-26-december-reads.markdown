@@ -12,9 +12,9 @@ excerpt: >
 ---
 ![Katalogspace Lit Reviews in December](/katalog/assets/december-reads.png)
 
-December was not an easy month to say the least. I struggled to stay positive at work, filled my days with just routine, and totally neglected my own writing. Still, I had some pretty fantastic book to bring some light and joy into my days!
+December was not an easy month to say the least. I struggled to stay positive at work, filled my days with just routine, and totally neglected my own writing. Still, I had some pretty fantastic books to help bring some light and joy into my days!
 
-I read both non-fiction and poetry this month. This is probably the first time in a while that I have branched out beyond just collections of poetry. Thank goodness too because I picked out some great advice from writers like Elizabeth Gilbert and Lewis Buzbee.
+I read both non-fiction and poetry this month. This is probably the first time in a while that I have branched out beyond just collections of poetry. Thank goodness too because I walked away with some great advice from writers like Elizabeth Gilbert and Lewis Buzbee.
 
 Overall, December ended on a positive note too. I had a great Christmas with my S.O., made some leaps and bounds at work, and am leaving the month feeling a lot lighter. I hope you are too.
 
@@ -32,7 +32,7 @@ Yet, it's not a beach read to take lightly. Instead, 'Big Magic' helped me refra
 1. Creativity shouldn't be such a serious thing. Instead, it should just be fun and enjoyable. As Gilbert writes,
 >"Let inspiration lead you wherever it wants to lead you. Keep in mind that for most of history people just made things, and they didn't make such a big freaking deal out of it. We make things because we *like* making things."
 
-2. Continuing to be creative can be frustraing. For sure! Mostly because whatever we do at first isn't any good. But we just have to keep trying and trying until it improves. The same goes for working with drafts.
+2. Continuing to be creative can be frustrating. For sure! Mostly because whatever we do at first isn't any good. But we just have to keep trying and trying until it improves. The same goes for working with drafts.
 
 3. Creativity is essential. Gilbert points out that we have been creating art as human beings for over forty thousand years. Art appeared on cave walls, carvings, and in the form of clay statuettes. We have had art, as Gilbert points out, for longer than we have agriculture. It is one of the oldest parts of our history!
 
