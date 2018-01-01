@@ -7,13 +7,13 @@ comments: true
 description: >
  2017 was beyond challenging but so damn good. Here is my year in review, including Oregon hikes, knitting projects, reads, writing milestones, etc. Plus, read on for my 2018 New Years' Resolutions. Thanks for reading!
 excerpt: >
- Happy New Year's, everyone! I hope you all had a fantastic night and are enjoying the first day of the new year.
+ Happy New Year, everyone! I hope you all had a fantastic night and are enjoying the first day of the new year.
  I spent my last day of 2017 with friends and loved ones. I also had some much appreciated alone time to go on a walk in the unseasonal sun here and to work on poetry submissions.
 
 ---
 ![New Year's Eve Park Walk](/katalog/assets/park-walk-portland.png)
 
-Happy New Year's, everyone! I hope you all had a fantastic night and are enjoying the first day of the new year.
+Happy New Year, everyone! I hope you all had a fantastic night and are enjoying the first day of the new year.
 
 I spent my last day of 2017 with friends and loved ones. I also had some much appreciated alone time to go on a walk in the unseasonal sun here and to work on poetry submissions.
 
