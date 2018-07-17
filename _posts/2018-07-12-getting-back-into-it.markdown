@@ -7,8 +7,7 @@ comments: true
 description: >
  2017 was beyond challenging but so damn good. Here is my year in review, including Oregon hikes, knitting projects, reads, writing milestones, etc. Plus, read on for my 2018 New Years' Resolutions. Thanks for reading!
 excerpt: >
- Happy New Year, everyone! I hope you all had a fantastic night and are enjoying the first day of the new year.
- I spent my last day of 2017 with friends and loved ones. I also had some much appreciated alone time to go on a walk in the unseasonal sun here and to work on poetry submissions.
+ I'm back in the swing of things now. Or, I'm trying to be.  Plus, I'm trying, *trying*, to read more, get back into living for poetry (reading and writing), and taking some time for physical activity.
 
 ---
 
@@ -34,4 +33,4 @@ I also want to mention that I've submitted 19 times so far. 10 have been decline
 
 Instead, I took some advice from Elizabeth Gilbert in ['Big Magic.'](https://www.goodreads.com/book/show/24453082-big-magic) She writes, that for each rejection, it's best to send out another submission into the world. That advice is seriously, the only way I'm ever going to deal with a rejection from now on.
 
-**What about you guys. How has your submitting experience been so far?**
+**What about you guys? How has your submitting experience been so far?**
