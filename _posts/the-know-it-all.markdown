@@ -58,10 +58,25 @@ What a refreshing reminder that women are overlooked even in small ways. These a
 
 ###The Future of Dating Is...Old-School Personal Ads?
 
-Yup! Kelly Rakowski publishes personal ads on her instagram accounts, "Personals." Go search for the page.
+Yup! Kelly Rakowski publishes personal ads geared toward "lesbian, bisexual, transgender, and queer, intersex, and asexual women; and gender-nonconforming and non-binary people. (Jamie Lauren Keiles, NYT). These ads appear on her Instagram account, "Personals." Go search for the page because it's awesome (and that's what I did right away).
 
-Apparently, something
+People send in their personal ads. Then, once a month, they are published on the page with tags showing who submitted them. If anyone is interested, they can contact the author directly. Cool, right? Makes me want a Pina Colada and to get caught in the rain.
 
+Kelly Rakowski also created Herstory - another awesome Instagram page. It shows lesbian imagery from throughout history. Plus, she's the photo editor for Metropolis Magazine. In short, she's super ambitious and creative!
+
+## The New York Times Learning section
+
+### When School Gets Real
+
+This article take a unique form. I starts by asking "How do you connect what you're learning in the classroom with what's going on in the world outside of school?" Over 1,200 teanager answered. The same question was posed to teachers and they also had a lot to say!
+
+Out of the answers, a few really caught my attention:
+
+- An 18-year-old says Brave New World helped her see how rampant consumerism and our need for instant gratification is harmful to society. Hell yeah! What a smart student.
+
+- A teacher in Brooklyn also submitted a great answer. He has his eight-graders choose an injustice that happening today that they would like to learn more about *and* take action toward solving.
+
+Apparently his students have created Instagram accounts about our strict beauty standards and musical fundraised for LGBTQ+ rights group. Some have also created artwork, creative writing pieces, and written political letters about police brutality and mass incarcertation. I would totally steal this lesson idea for my own classroom by the way. 
 
 
 
