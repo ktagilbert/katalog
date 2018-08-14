@@ -11,26 +11,28 @@ excerpt: >
 
 ---
 
-So, I recently started reading [The Know it All](https://www.goodreads.com/book/show/28116.The_Know_It_All) by AJ Jacobs. Jacobs, to start with, is awesome. I would totally love to be out a bar with friends talking to him. Anyway, he goes on a quest to read the Encyclopedia Brittanica from A-Z.
+So, I recently started reading [The Know it All](https://www.goodreads.com/book/show/28116.The_Know_It_All) by AJ Jacobs.
 
-That sounds super boring. In fact, I picked up the book back in 2015 and I didn't read it until now because it did some kind of boring even after I had bought it. (So why did I buy it again?) But, as soon as I got past his section on "A," I was hooked.
+Jacobs, to start with, is awesome. I would totally love to be out at a bar talking to him. But anyway, in his book he goes on a quest to read the Encyclopedia Brittanica from A-Z.
 
-I'm now up to "H" in his journey through the Brittanica. So far, I've learned that the term "going berserk" comes from Norse soldiers "who," it is said went into battle naked. Hence 'going berserk.'That and elves were originally conceived as creatures that sat on your chest while you slept to give you bad dreams.
+That sounds super boring. In fact, I picked up the book back in 2015 and I didn't read it until now because it totally did seem boring. *So why did I buy it again?* Still, once I finally opened the book up I was pretty hooked.
+
+I'm now up to "H" in his journey through the Brittanica. So far, I've learned that the term "going berserk" comes from Norse soldiers "who," it is said went into battle naked. Hence 'going berserk.' That and elves were originally conceived as creatures that sat on your chest while you slept to give you bad dreams.
 
 All of these facts are super fun. My only issue is that Jacobs flagrantly flaunts/relies on stereotypes and incredibly non-pc remarks to add humor to a lot of his anecdotes.
 
-I'm definitely not a fan and even more so that he, and his publisher, don't hesitate to use these stereotypes for comic relief from all the content about obscure facts.
+That and he and and his editor don't hesitate to use these stereotypes for comic relief between all of the content about obscure facts.
 
 Still, I relate to Jacobs a lot. Primarily because I love collecting facts and anecdotes as well. Sadly, I rely on the phrase, "did you know" way to often and someone other than me should definitely call me out on it.
 
-Here's the thing, though: I love learning. So, I spend a lot of my weekends taking walks while listening to the Ted Radio Hour. That, or I'm reading the Book Review, Education, and Style sections of the New York Times (only because they are left in my apartment lobby every weekend. Thank you Landlord!!).
+**Here's the thing though: I love learning.** So, I spend a lot of my weekends taking walks while listening to the Ted Radio Hour. That, or I'm reading the Book Review, Education, and Style sections of the New York Times (only because they are left in my apartment lobby every weekend. Thank you, Landlord!!).
 
 # This Week's Roundup
 
 ##The New York Times Book Review Section
 
 ### Locking Her Up
-###What Happened to thousands of women suspected of having sexually transmitted diseases?
+###[What Happened to thousands of women suspected of having sexually transmitted diseases?](https://www.nytimes.com/2018/07/31/books/review/scott-stern-trials-of-nina-mccall.html)
 
 They had police capture women with STDs!!! And it was more of a witch hunt. Many didn't even have a disease. They were just taken away and put into concentration camps to, you know, keep men safe.
 
