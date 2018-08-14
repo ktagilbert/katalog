@@ -76,8 +76,33 @@ Out of the answers, a few really caught my attention:
 
 - A teacher in Brooklyn also submitted a great answer. He has his eight-graders choose an injustice that happening today that they would like to learn more about *and* take action toward solving.
 
-Apparently his students have created Instagram accounts about our strict beauty standards and musical fundraised for LGBTQ+ rights group. Some have also created artwork, creative writing pieces, and written political letters about police brutality and mass incarcertation. I would totally steal this lesson idea for my own classroom by the way. 
+Apparently his students have created Instagram accounts about our strict beauty standards and musical fundraised for LGBTQ+ rights group. Some have also created artwork, creative writing pieces, and written political letters about police brutality and mass incarceration. I would totally steal this lesson idea for my own classroom by the way.
+
+## The Ted Radio Hour
+### [The Right to Speak](https://www.npr.org/programs/ted-radio-hour/632611360/the-right-to-speak)
+
+So, this Ted Radio Hour has changed my whole week. A lot of the points made keep popping up in a lot of my conversations. That's because a lot of my friends and co-workers are talking about politics. Surprise, surprise, right?
+
+Jeff Howard said something that seriously got my attention! [In part 2 of the show](https://www.npr.org/2018/07/27/632628282/jeffrey-howard-should-a-culture-dedicated-to-free-speech-limit-hate-speech) he makes the point that we don't display actual public discourse anymore. Instead, we show two opposing sides in heated conversations again and again. There is no exchange of ideas, we don't listen to each others, and opinions are not tested.
+
+Instead, we are shown "a tribal fight between different teams" when we tune into political conversations on air.
+
+- Following up on the idea of hearing out oppositional viewpoints, [Zack Wood's story](https://www.npr.org/2018/07/27/632612110/zachary-wood-why-should-we-listen-to-views-we-find-offensive) also says a lot.
+
+He founded a group called Uncomfortable Learning. For the group, he brought a couple of contentious people to speak on campus. He brought "John Derbyshire as well as Charles Murray to speak at [his] school knowing full well that [he] would be giving them a platform and attention for ideas that [he] despised and rejected."
+
+The things is, he did so that students campus could learn. With the 2016 election coming up, Zack Wood just wanted students to understand more about Trump's ideas, agenda, and the source of his rational. He didn't want himself or others to just assume they already knew this information. So he invited these two to help answer these questions.  about this person's agenda and views so that those on campus could make smart decisions in terms of how to handle this person's presence in politics. More specifically to see how Trump would handle issues of immigration and race.
+
+What I love about this portion of the show, was that Wood was able to explain something super important. Just because we disagree with someone's ideas, it's still worth it to hear them share their thoughts.
+
+Wood explains, "Through engaging, I believe that we may reach a deeper understanding of our own beliefs and preserve the ability to solve problems, which we can't do if we don't talk to each other and make an effort to be good listeners.
+
+Go figures I heard this talk just days before [NPR invited Jason Kessler onto their show](https://www.npr.org/2018/08/13/638102276/npr-criticized-for-interview-with-white-supremacist-jason-kessler).
+
+- In part three of show, [Elif Shafak](https://www.npr.org/2018/07/27/632633072/elif-shafak-what-happens-when-different-viewpoints-are-silenced) echoes a few of Wood's opinions. Except, she writes,
+"I sincerely believe in this life, if we're going to learn anything at all, you know, we will be learning from people who are different than us. Someone who speaks like me, who dresses up like me, who votes exactly like me is only an echo of my voice. We do not learn anything from echoes. And it's a very narcissistic existence, to be surrounded by sameness. It is possible to learn the value of democracy by looking at what's happening in the world today. Even though lots of negative things are clearly happening, maybe this is a golden moment for people who care to raise their voices. Democracy is a fragile ecosystem. It is not something you have once and for all and then you can just take it for granted. We have to work for it, together.
+
+In short, hearing others' views helps us better understand our own ideas.
 
 
-
-**What about you guys? How has your submitting experience been so far?**
+Okay, this was a lot of content! But I swear, it's all super meaty/valuable. I hope you skimmed through and found something awesome or discussion worthy to share or think about on your own. **Definitely let me know in the comments what you think about any of these articles/shows!**
