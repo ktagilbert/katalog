@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Getting back to my roots.
+title: The Know it All Part 1.
 date: 2018-01-01 11:51:09
-image: "smote.png"
+image:
 comments: true
-description: >
- 2017 was beyond challenging but so damn good. Here is my year in review, including Oregon hikes, knitting projects, reads, writing milestones, etc. Plus, read on for my 2018 New Years' Resolutions. Thanks for reading!
+description: > So, I recently started reading the Know It All by AJ Jacobs. Now, he is the first installment of my own know it all segment, haha.
 excerpt: >
- I'm back in the swing of things now. Or, I'm trying to be.  Plus, I'm trying, *trying*, to read more, get back into living for poetry (reading and writing), and taking some time for physical activity.
+ So, I recently started reading the Know It All by AJ Jacobs. Now, he is the first installment of my own know it all segment, haha. 
 
 ---
 
