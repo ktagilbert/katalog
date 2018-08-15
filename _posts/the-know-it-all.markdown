@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Know it All Part 1.
+title: The Know it All Part 1
 date: 2018-01-01 11:51:09
 image:
 comments: true
 description: > So, I recently started reading the Know It All by AJ Jacobs. Now, he is the first installment of my own know it all segment, haha.
 excerpt: >
- So, I recently started reading the Know It All by AJ Jacobs. Now, he is the first installment of my own know it all segment, haha. 
+ So, I recently started reading the Know It All by AJ Jacobs. Now, he is the first installment of my own know it all segment, haha.
 
 ---
 
