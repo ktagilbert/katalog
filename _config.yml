@@ -6,6 +6,7 @@ url: "/" # the base hostname & protocol for your site
 twitter_username: Kt_a_Gilbert
 github_username: ktagilbert
 # time: "2015-07-15 19:50:33 -0700"
+
 comments: true
 safe: false
 paginate: 5
@@ -13,6 +14,7 @@ paginate_path: "/page:num/"
 markdown: kramdown
 include: ["_pages"]
 include: ['.htaccess']
+
 # Heroku Config
 gems: ['kramdown', 'jekyll-assets', 'octopress-paginate', 'jekyll-paginate']
 exclude: ['vendor', 'Procfile', 'Rakefile', 'Gemfile']
