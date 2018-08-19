@@ -13,12 +13,9 @@ paginate_path: "/page:num/"
 markdown: kramdown
 include: ["_pages"]
 include: ['.htaccess']
-
 # Heroku Config
 gems: ['kramdown', 'jekyll-assets', 'octopress-paginate', 'jekyll-paginate']
-
 exclude: ['vendor', 'Procfile', 'Rakefile', 'Gemfile']
-
 custom_redirects:
   - from: https://ktagilbert.github.io/katalog/
     to: http://katalogspace.com/
