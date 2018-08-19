@@ -30,10 +30,10 @@ Still, I relate to Jacobs a lot. Primarily because I love collecting facts and a
 
 # This Week's Roundup
 
-##The New York Times Book Review Section
+## The New York Times Book Review Section
 
 ### Locking Her Up
-###[What Happened to thousands of women suspected of having sexually transmitted diseases?](https://www.nytimes.com/2018/07/31/books/review/scott-stern-trials-of-nina-mccall.html)
+### [What Happened to thousands of women suspected of having sexually transmitted diseases?](https://www.nytimes.com/2018/07/31/books/review/scott-stern-trials-of-nina-mccall.html)
 
 They had police capture women with STDs!!! And it was more of a witch hunt. Many didn't even have a disease. They were just taken away and put into concentration camps to, you know, keep men safe.
 
@@ -41,8 +41,8 @@ As part of the American Plan, author Nina McCall tells us about America's "socia
 
 The badass part is that some of these women chose to wrap up their guards in their bedsheets. They then hurled their guards out of their windows so they could make their escapes. Hell yeah!
 
-###Science of Quakery
-####Hormone research and its many missteps and mistakes
+### Science of Quakery
+#### Hormone research and its many missteps and mistakes
 
 So, get this. Doctors back in the day would perform experimental surgeries on children without their parents' consent.
 
@@ -54,9 +54,9 @@ Apparently, the author also seems to delight in these accounts. Oreskes writes,
 
 Hmm, yeah sure...
 
-##The New York Times Style Section
+## The New York Times Style Section
 
-###Deeper Voice, More Listeners
+### Deeper Voice, More Listeners
 Thomas Page McBee helps share a 31-year-old trans man's account of becoming male.
 
 The first thing this man noticed was that his voice could silence any room he was in. People would lean toward him eager to hear more as he spoke. Even when he was just stumbling through a thought out loud.
@@ -69,7 +69,7 @@ He also learned to ask for help and learn from others as he went about his day. 
 
 *What a refreshing reminder that women are overlooked even in small ways.* These are micro and macro aggressions that I love to see being called out.
 
-###The Future of Dating Is...Old-School Personal Ads?
+### The Future of Dating Is...Old-School Personal Ads?
 
 Yup! Kelly Rakowski publishes personal ads geared toward "lesbian, bisexual, transgender, and queer, intersex, and asexual women; and gender-nonconforming and non-binary people. (Jamie Lauren Keiles, NYT).
 
