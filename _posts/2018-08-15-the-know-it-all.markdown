@@ -10,11 +10,11 @@ excerpt: >
 
 ---
 
+![The Know it ALL](/katalog/assets/know-it-all.jpg)
+
 So, I recently started reading [The Know it All](https://www.goodreads.com/book/show/28116.The_Know_It_All) by AJ Jacobs.
 
 Jacobs, to start with, is awesome. I would totally love to be out at a bar talking to him. But anyway, in his book he goes on a quest to read the Encyclopedia Brittanica from A-Z.
-
-![New Year's Eve Park Walk](/katalog/assets/know-it-all.jpg)
 
 That sounds super boring. In fact, I picked up the book back in 2015 and I didn't read it until now because it totally did seem boring. *So why did I buy it again?* Still, once I finally opened the book up I was pretty hooked.
 
