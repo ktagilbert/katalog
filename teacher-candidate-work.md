@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
-alias: https://ktagilbert.github.io/katalog/about/
-excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content marketer here in Portland, OR. Read on to learn more about me and my work.
+title: Teacher Candidate Work
+permalink: /teacher-candidate-work/
+alias: https://ktagilbert.github.io/katalog/teacher-candidate-work/
+excerpt: Resources to build and improve writing & reading skills
 ---
 
 <div class="candidate-work-content">
-<h1> Resources to build and improve writing & reading skills</h1>
+<h1>Resources to build and improve writing & reading skills</h1>
 <p>
   As I am continuing in the Graduate Teacher Education Program (GTEP) at Portland State University (PSU), I have put a large focus on teaching writing skills to high school level students.
 </p>
