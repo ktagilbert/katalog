@@ -27,13 +27,20 @@ excerpt: Resources to build and improve writing & reading skills
 <div class="three-row">
   <div class="image-text-combo">
     <img src="/katalog/assets/sample-homework-assignment.jpg">
+    <p>
+      Sample ELA Homework Assignment
+    </p>
   </div>
   <div class="image-text-combo">
     <img src="/katalog/assets/sample-unit-ideas.jpg">
+    <p>
+      Sample Unit Ideas for 9th Grade ELA
+    </p>
   </div>
   <div class="image-text-combo">
     <img src="/katalog/assets/digital-learning-img.jpg">
+    <p>
+      Digital Tools for the Classroom
+    </p>
   </div>
-</div>
-
 </div>
