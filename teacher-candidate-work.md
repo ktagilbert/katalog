@@ -6,31 +6,34 @@ alias: https://ktagilbert.github.io/katalog/about/
 excerpt: Hi, my name is Katie Gilbert. I am a passionate writer and content marketer here in Portland, OR. Read on to learn more about me and my work.
 ---
 
-<div class="about-box">
-  <div class="about-image">
-    <img src="/katalog/assets/katie-g-writer.png">
-  </div>
+<div class="candidate-work-content">
+<h1> Resources to build and improve writing & reading skills</h1>
+<p>
+  As I am continuing in the Graduate Teacher Education Program (GTEP) at Portland State University (PSU), I have put a large focus on teaching writing skills to high school level students.
+</p>
+<p>
+  In fact, a major problem for college-bound high school seniors today is that they are underprepared for college writing tasks. In fact, statistics from NAEP and Achieve, Inc. state that 77% of 12th-grade students did not meet NAEP writing proficiency goals, 1/3 of high school students do not meet the benchmarks for college-level composition courses (2003), and 50% are estimated to be unprepared for college-level writing demands (2005).
+</p>
+<p>
+  How did this happen and what do we do about it?
+</p>
+<p>
+  <b>
+    This section of the website will provide ways to change these statistics by providing professional development videos, sample lessons and units, and a range of resources to help teach literacy and writing skills using tech in the classroom.
+  </b>
+</p>
 </div>
 
-<div class="about-content">
-<p>
-  Hi, My name is Katie Gilbert. I'm going to come out and say it: I'm a writer. There. Okay. I feel undeservedly brave now. I should list this moment on my resume under job-experience now, right?
-</p>
-<p>
-  On a more serious note, I began actually writing, writing while studying in Ireland with Washington’s 2007 Poet Laureate, Samuel Green and Poetry Ireland/Friends Provident National Poetry Competition winner, Tony Curtis.
-</p>
-<p>
-  I was nineteen, about to be newly single, and was about to be an ex-journalism major so that I could be an english
-  It was awesome. It was the first time I didn't hate poetry. It was also the first time I realized how stupid my younger self was for hating poetry. I wasted so many Aprils despising national poetry month.
-</p>
-<p>
-  I am also a teacher candidate at PSU completing the Graduate Teacher Education Program (GTEP). I am set to graduate in 2020 and hope to become a part of the PPS community afterward.
-</p>
-<p>
-  Since graduating, I began working as a digital marketer and copy editor in San Antonio, TX and Portland, OR. I then decided to pursue my love of literature and writing further. So, I became a teacher candidate at Portland State University while earning my Masters in Education. At the same time, I work on my own poetry and non-fiction writing. You can read some of my work in small presses and local anthologies.
-</p>
-<p>
-  A huge passion of mine now is challenging students to develop key literacy skills, to prepare students for college-level writing, to ask students to engage with texts thoughtfully, and to guide students toward using their writing skills in major ways throughout their lives.
-</p>
+<div class="three-row">
+  <div class="image-text-combo">
+    <img src="/katalog/assets/sample-homework-assignment.jpg">
+  </div>
+  <div class="image-text-combo">
+    <img src="/katalog/assets/sample-unit-ideas">
+  </div>
+  <div class="image-text-combo">
+    <img src="/katalog/assets/digital-learning-img.jpg">
+  </div>
+</div>
 
 </div>
