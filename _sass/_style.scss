@@ -61,12 +61,17 @@ body > div > div > article > div > p:nth-child(1) > img {
 
 .three-row {
   display: flex;
-  flex-direction: row;
+  width: 50%
+  padding: 20%
 }
 
 .image-text-combo {
   flex-basis: 33%;
   text-align: center;
+  flex-direction: row;
+  img {
+    height: 300px;
+  }
   p {
     a:hover{
         text-decoration: underline;
