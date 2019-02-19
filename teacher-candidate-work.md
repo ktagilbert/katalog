@@ -29,7 +29,7 @@ excerpt: Resources to build and improve writing & reading skills
     <img src="/katalog/assets/sample-homework-assignment.jpg">
   </div>
   <div class="image-text-combo">
-    <img src="/katalog/assets/sample-unit-ideas">
+    <img src="/katalog/assets/sample-unit-ideas.jpg">
   </div>
   <div class="image-text-combo">
     <img src="/katalog/assets/digital-learning-img.jpg">

@@ -13,7 +13,7 @@
 }
 
 .posts {
-  width: 65%;
+  width: 50%;
   float: left;
 }
 
@@ -58,3 +58,23 @@ body > div > div > article > div > p:nth-child(1) > img {
 .archive-title {
   text-transform: capitalize;
 }
+
+.three-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.image-text-combo {
+  flex-basis: 33%;
+  text-align: center;
+  p {
+    a:hover{
+        text-decoration: underline;
+      }
+    }
+  }
+
+  }
+}
+//<div class="three-row">
+  <div class="image-text-combo">//
