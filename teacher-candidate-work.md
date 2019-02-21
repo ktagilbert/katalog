@@ -28,7 +28,7 @@ excerpt: Resources to build and improve writing & reading skills
   <div class="image-text-combo">
     <img src="/katalog/assets/sample-homework-assignment.jpg">
     <p>
-      Sample ELA Homework Assignment
+      ELA Professional Development
     </p>
   </div>
   <div class="image-text-combo">
