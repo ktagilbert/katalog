@@ -32,15 +32,21 @@ excerpt: Resources to build and improve writing & reading skills
     </p>
   </div>
   <div class="image-text-combo">
-    <img src="/katalog/assets/sample-unit-ideas.jpg">
+      <a href="/katalog/sample-unit-ideas/">
+        <img src="/katalog/assets/sample-unit-ideas.jpg">
+      </a>
     <p>
-      Sample Unit Ideas for 9th Grade ELA
+        <a href="/katalog/sample-unit-ideas/">
+          Sample Unit Ideas for 9th Grade ELA
+        </a>
     </p>
   </div>
   <div class="image-text-combo">
-    <img src="/katalog/assets/digital-learning-img.jpg">
+    <a href="/katalog/ed-tech-resources/"
+      <img src="/katalog/assets/digital-learning-img.jpg">
+    </a>
     <p>
-      Digital Tools for the Classroom
+      Ed Teach Resources
     </p>
   </div>
 </div>

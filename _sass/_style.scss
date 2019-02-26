@@ -68,10 +68,6 @@ body > div > div > article > div > p:nth-child(1) > img {
   text-align: center;
   flex-direction: row;
   padding: 3%;
-  img {
-    height: 300px;
-    width: 300px;
-  }
 }
 
 @media (max-width: 750px) {
