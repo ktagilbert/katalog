@@ -42,7 +42,7 @@ excerpt: Resources to build and improve writing & reading skills
     </p>
   </div>
   <div class="image-text-combo">
-    <a href="/katalog/ed-tech-resources/"
+    <a href="/katalog/ed-tech-resources/">
       <img src="/katalog/assets/digital-learning-img.jpg">
     </a>
     <p>
