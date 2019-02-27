@@ -34,10 +34,13 @@ excerpt: Resources to build and improve writing & reading skills
 
 <div class="three-row">
   <div class="image-text-combo">
+  <a href="/katalog/ela-professional-development"
     <img src="/katalog/assets/sample-homework-assignment.jpg">
-    <p>
+  </a>
+  <a href="/katalog/ela-professional-development"  <p>
       ELA Professional Development
     </p>
+  </a>
   </div>
   <div class="image-text-combo">
       <a href="/katalog/sample-unit-ideas/">
@@ -53,8 +56,10 @@ excerpt: Resources to build and improve writing & reading skills
     <a href="/katalog/ed-tech-resources/">
       <img src="/katalog/assets/digital-learning-img.jpg">
     </a>
-    <p>
-      Ed Teach Resources
-    </p>
+    <a href="/katalog/ed-tech-resources/">
+      <p>
+        Ed Tech Resources
+      </p>
+    </a>
   </div>
 </div>
