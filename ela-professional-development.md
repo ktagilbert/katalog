@@ -16,7 +16,6 @@ excerpt: Resources to build and improve writing & reading skills
     <p>
       The videos in this playlist are a starting point for teachers. They will touch on building literacy skills for ELL students, the value of creating writers' workshops in our schools, and how to help students develop their own, genuine academic voices.
     </p>
-    <div id=further-reading>
       <h3>
         Further Reading
       </h3>
@@ -32,8 +31,7 @@ excerpt: Resources to build and improve writing & reading skills
         <p>
           They suggest looking at scientific testing and practices of exemplary teachers for examples of how to properly teach writing skills to high schoolers. If they can do this while promoting flexibility, which has been found to be a key feature of proficient writers, and creating a supportive and motivating classroom environment, then they believe students can begin to become stronger writers within all subject areas.
         </p>
-    </div>
-    <div>
+
     <h3>
       Related Research Articles
     </h3>
