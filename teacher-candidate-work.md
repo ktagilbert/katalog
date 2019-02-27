@@ -7,7 +7,15 @@ excerpt: Resources to build and improve writing & reading skills
 ---
 
 <div class="candidate-work-content">
-<h1>Resources to build and improve writing & reading skills</h1>
+<h1>
+  Hi, everyone. Welcome!
+</h1>
+  <p>
+    My name is Katie Gilbert. I am a teacher candidate at Portland State University, set to graduate in June 2020. Here, I am compiling some sample unit and lesson ideas for high school secondary language arts students. Explore and definitely checkout the available teacher and student resources here on the site.
+  </p>
+<h2>
+  Resources to build and improve writing & reading skills
+</h2>
 <p>
   As I am continuing in the Graduate Teacher Education Program (GTEP) at Portland State University (PSU), I have put a large focus on teaching writing skills to high school level students.
 </p>
