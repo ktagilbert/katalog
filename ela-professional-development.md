@@ -75,4 +75,5 @@ excerpt: Resources to build and improve writing & reading skills
         </li>
       </ul>
     </div>
+    </div>
 </div>

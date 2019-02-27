@@ -35,7 +35,7 @@ excerpt: Resources to build and improve writing & reading skills
 <div class="three-row">
 
   <div class="image-text-combo">
-  <a href="/katalog/ela-professional-development"
+  <a href="/katalog/ela-professional-development">
     <img src="/katalog/assets/sample-homework-assignment.jpg">
   </a>
   <a href="/katalog/ela-professional-development">  
