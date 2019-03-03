@@ -4,6 +4,7 @@ title: Teacher Candidate Work
 permalink: /teacher-candidate-work/
 alias: https://ktagilbert.github.io/katalog/teacher-candidate-work/
 excerpt: Resources to build and improve writing & reading skills
+featured-img: /katalog/assets/accessories-blog-blogging-965117.jpg
 ---
 
 <div class="candidate-work-content">
