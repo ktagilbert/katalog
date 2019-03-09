@@ -6,6 +6,22 @@
    padding: 0 10%;
  }
 
+
+ .about-content {
+  width: 50%;
+  float: left;
+  padding-bottom: 10%;
+}
+.about-box {
+    width: 40%;
+    float: right;
+    box-shadow: 40px 24px 0px;
+
+    .about-image {
+      box-shadow: 20px 10px 0 pink;
+    }
+}
+
 .site-header {
     border-top: 5px solid #f2f2f2;
     border-bottom: 1px solid $grey-color-light;
@@ -52,7 +68,10 @@
         }
     }
 }
-
+.TitleBanner {
+  background-size: cover;
+  background-position: center;
+}
 /**
  * Site footer
  */
