@@ -31,10 +31,10 @@ Still, I relate to Jacobs a lot. Primarily because I love collecting facts and a
 
 # This Week's Roundup
 
-### The New York Times Book Review Section
+## The New York Times Book Review Section
 
-#### Locking Her Up
-#### [What Happened to thousands of women suspected of having sexually transmitted diseases?](https://www.nytimes.com/2018/07/31/books/review/scott-stern-trials-of-nina-mccall.html)
+### Locking Her Up
+### [What Happened to thousands of women suspected of having sexually transmitted diseases?](https://www.nytimes.com/2018/07/31/books/review/scott-stern-trials-of-nina-mccall.html)
 
 They had police capture women with STDs!!! And it was more of a witch hunt. Many didn't even have a disease. They were just taken away and put into concentration camps to, you know, keep men safe.
 
@@ -55,9 +55,9 @@ Apparently, the author also seems to delight in these accounts. Oreskes writes,
 
 Hmm, yeah sure...
 
-### The New York Times Style Section
+## The New York Times Style Section
 
-#### Deeper Voice, More Listeners
+### Deeper Voice, More Listeners
 Thomas Page McBee helps share a 31-year-old trans man's account of becoming male.
 
 The first thing this man noticed was that his voice could silence any room he was in. People would lean toward him eager to hear more as he spoke. Even when he was just stumbling through a thought out loud.
@@ -80,9 +80,9 @@ People send in their personal ads. Then, once a month, they are published on the
 
 Kelly Rakowski also created [Herstory](https://www.instagram.com/h_e_r_s_t_o_r_y/?hl=en) - another awesome Instagram page. It shows lesbian imagery from throughout history. Plus, she's the photo editor for [Metropolis Magazine](https://www.metropolismag.com/). In short, she's super ambitious and creative!
 
-### The New York Times Learning section
+## The New York Times Learning section
 
-#### When School Gets Real
+### When School Gets Real
 
 This article takes a unique form. It starts by asking **"How do you connect what you're learning in the classroom with what's going on in the world outside of school?"**
 
@@ -96,8 +96,8 @@ Out of the answers, a few really caught my attention:
 
 Apparently, his students have created Instagram accounts about our strict beauty standards and have created musical fundraises for LGBTQ+ rights group. Some have also created artwork, creative writing pieces, and written political letters about police brutality and mass incarceration. *I would totally steal this lesson idea for my own classroom by the way.*
 
-### The Ted Radio Hour
-#### [The Right to Speak](https://www.npr.org/programs/ted-radio-hour/632611360/the-right-to-speak)
+## The Ted Radio Hour
+### [The Right to Speak](https://www.npr.org/programs/ted-radio-hour/632611360/the-right-to-speak)
 
 So, this Ted Radio Hour has changed my whole week. Many of the points made keep popping up in a lot of my conversations. That's because a lot of my friends and co-workers are talking about politics. Surprise, surprise, right?
 
