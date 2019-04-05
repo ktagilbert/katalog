@@ -174,6 +174,18 @@
     margin-bottom: $spacing-unit;
 }
 
+
+@media (max-width: 1000px) {
+  .post-list {
+    margin: 0px !important;
+    width: 100% !important;
+    text-align: center !important;
+  }
+  post-list li {
+    text-align: left;
+  }
+}
+
 .post-title {
     font-size: 42px;
     line-height: 1;

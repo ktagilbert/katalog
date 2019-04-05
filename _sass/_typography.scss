@@ -16,6 +16,12 @@ h1 {
   }
 }
 
+.post-list {
+  p {
+    text-align: right;
+  }
+}
+
 .underline {
   padding-bottom: 5px;
   border-bottom: 1px solid $blue;
