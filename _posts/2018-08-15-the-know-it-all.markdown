@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Know it all part 1
-date: 2019-08-15 11:51:09
+date: 2018-08-15 11:51:09
 image: "know-it-all.jpg"
 comments: true
 description: >

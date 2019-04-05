@@ -2,16 +2,16 @@
 layout: post
 title: Big Life Update
 date: 2019-04-13 11:51:09
-image: "edu-resources.png"
+image: "ed-tech-resources.png"
 comments: true
 description: >
  So, I recently started reading the Know It All by AJ Jacobs. Now, he is the first installment of my own know it all segment, haha.
 excerpt: >
- For this specific post I want to express my gratitude for my tech-ed course that centers on resources for teachers that may encourage more creative and efficient tools for lessons, assessments, and informed practices. 
+ For this specific post I want to express my gratitude for my tech-ed course that centers on resources for teachers that may encourage more creative and efficient tools for lessons, assessments, and informed practices.
 
 ---
 
-![Tech Ed Resources](/katalog/assets/edu-resources.png)
+![Tech Ed Resources](/katalog/assets/ed-tech-resources.png)
 
 Since I last posted, a lot of personal things have affected my life (hence my break from posting). I won't go into that here because 1) I hardly even share that with my friends and 2) posting things online can come back to bite you when you're in the job search process (yes, I really am giving a lecture here).
 
@@ -27,7 +27,7 @@ Though I don't recommend my program to everyone, I am glad that I am here. For t
 
 Here are my tools. Just click on the link in the image below to read over them!
 
-![wakelet.png](http://wke.lt/w/s/XGNQv)
+![wakelet.png](https://sites.google.com/view/katie-gilbert/teacher-resources/ed-tech-resources?authuser=0)
 
 That's it for this post. I'll do my best to post more. It's a fun outlet and I think about posts all the time but just...never write them down. Woops!
 
