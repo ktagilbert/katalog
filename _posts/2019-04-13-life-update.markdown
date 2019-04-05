@@ -27,7 +27,7 @@ Though I don't recommend my program to everyone, I am glad that I am here. For t
 
 Here are my tools. Just click on the link in the image below to read over them!
 
-![wakelet.png](https://sites.google.com/view/katie-gilbert/teacher-resources/ed-tech-resources?authuser=0)
+[![wakelet.png](katalog/katalog/wakelet.png)](https://wakelet.com/wake/07e9cef3-2964-4932-a6ee-3eab6d434d71)
 
 That's it for this post. I'll do my best to post more. It's a fun outlet and I think about posts all the time but just...never write them down. Woops!
 
