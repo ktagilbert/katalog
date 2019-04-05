@@ -23,7 +23,7 @@ Though I don't recommend my program to everyone, I am glad that I am here. For t
 
 **On that note, I want to share my curation of tools that are currently exciting to me.** Quick side note: I hate most content curation tools. Flipboard, educlipper, whatever it is, I hate them because they look awful! In my personal experience if something looks awful, no one is going to use it. But I did find one that I LOVE. It's called [Wakelet](https://wakelet.com). If you have a classroom and want to gather resources/tools/articles to read later, I really recommend it.
 
-###Ed-Tech Tools
+### Ed-Tech Tools
 
 Here are my tools. Just click on the link in the image below to read over them!
 
